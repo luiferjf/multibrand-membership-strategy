@@ -1,0 +1,13 @@
+Scenario,Component,Value,Type
+Average User,1. Gross Sales,568,Revenue
+Average User,2. COGS,-284,Cost
+Average User,3. Shipping,-73,Cost
+Average User,4. Discount,-85,Cost
+Average User,5. Membership Fee,99,Revenue
+Average User,6. Net Result,-225,Total
+Stress Test (6 Mugs @ Cobija),1. Gross Sales,240,Revenue
+Stress Test (6 Mugs @ Cobija),2. COGS,-48,Cost
+Stress Test (6 Mugs @ Cobija),3. Shipping,-210,Cost
+Stress Test (6 Mugs @ Cobija),4. Discount,-36,Cost
+Stress Test (6 Mugs @ Cobija),5. Membership Fee,99,Revenue
+Stress Test (6 Mugs @ Cobija),6. Net Result,-45,Total

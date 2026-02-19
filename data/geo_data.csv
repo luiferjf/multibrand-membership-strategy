@@ -1,0 +1,1924 @@
+store,order_id,city,state,shipping_charged,order_total,Clean_State
+rbn,14136,,,15,135.59,Santa Cruz
+rbn,15927,,,30,129.98,Santa Cruz
+rbn,15928,,,30,145.0,Santa Cruz
+rbn,15997,,,15,104.99,Santa Cruz
+rbn,15998,,,25,158.0,Santa Cruz
+rbn,16275,,,0,49.99,Santa Cruz
+rbn,16338,,,15,64.99,Santa Cruz
+rbn,18635,,,30,149.99,Santa Cruz
+rbn,18677,,,25,254.98,Santa Cruz
+rbn,18678,,,0,129.0,Santa Cruz
+rbn,18714,,,0,259.98,Santa Cruz
+rbn,18875,,,0,99.99,Santa Cruz
+rbn,18876,,,0,99.99,Santa Cruz
+rbn,18914,,,0,0.0,Santa Cruz
+rbn,19136,,,0,99.99,Santa Cruz
+rbn,19137,,,0,99.99,Santa Cruz
+rbn,19291,,,0,199.98,Santa Cruz
+rbn,19292,,,0,99.99,Santa Cruz
+rbn,19293,,,0,113.0,Santa Cruz
+rbn,20433,,,0,49.99,Santa Cruz
+rbn,20434,,,0,244.99,Santa Cruz
+rbn,20438,,,0,99.99,Santa Cruz
+rbn,20440,,,0,99.98,Santa Cruz
+rbn,20527,,,0,149.99,Santa Cruz
+rbn,20629,,,0,145.0,Santa Cruz
+rbn,20769,,,0,169.99,Santa Cruz
+rbn,20770,,,0,264.99,Santa Cruz
+rbn,20771,,,0,168.0,Santa Cruz
+rbn,20772,,S,0,197.0,Santa Cruz
+rbn,20924,,,30,299.98,Santa Cruz
+rbn,20992,,S,0,179.99,Santa Cruz
+rbn,20993,,S,0,115.0,Santa Cruz
+rbn,21098,,S,0,279.98,Santa Cruz
+rbn,21102,,,0,179.99,Santa Cruz
+rbn,21113,,,0,99.99,Santa Cruz
+rbn,21270,,,0,145.0,Santa Cruz
+rbn,21366,,,0,195.0,Santa Cruz
+rbn,21622,,S,0,135.0,Santa Cruz
+rbn,21807,,S,0,264.99,Santa Cruz
+rbn,21940,,,0,145.0,Santa Cruz
+rbn,21941,,,0,115.0,Santa Cruz
+rbn,22100,,S,15,114.98,Santa Cruz
+rbn,22252,,,0,129.99,Santa Cruz
+rbn,22253,,S,15,144.99,Santa Cruz
+rbn,22254,,,0,49.99,Santa Cruz
+rbn,22307,,,20,69.99,Santa Cruz
+rbn,22308,,,0,99.98,Santa Cruz
+rbn,22309,,,0,115.0,Santa Cruz
+rbn,22310,,,0,99.98,Santa Cruz
+rbn,22311,,,15,64.99,Santa Cruz
+rbn,22312,,,15,114.98,Santa Cruz
+rbn,22355,,,0,230.0,Santa Cruz
+rbn,22356,,,0,149.97,Santa Cruz
+rbn,22357,,,0,149.97,Santa Cruz
+rbn,22409,,,0,0.0,Santa Cruz
+rbn,22419,,,15,209.99,Santa Cruz
+rbn,22841,,,15,64.99,Santa Cruz
+rbn,22842,,,15,64.99,Santa Cruz
+rbn,22843,,,0,99.98,Santa Cruz
+rbn,22845,,,0,99.98,Santa Cruz
+rbn,22846,,,0,115.0,Santa Cruz
+rbn,22847,,,0,99.98,Santa Cruz
+rbn,22848,,,0,344.98,Santa Cruz
+rbn,22933,,,0,239.98,Santa Cruz
+rbn,23020,,,0,70.0,Santa Cruz
+rbn,23214,,,0,39.99,Santa Cruz
+rbn,23216,,,0,79.98,Santa Cruz
+rbn,23217,,,15,174.98,Santa Cruz
+rbn,23218,,S,15,134.99,Santa Cruz
+rbn,23273,,,15,54.99,Santa Cruz
+rbn,23274,,,15,54.99,Santa Cruz
+rbn,23293,,S,15,344.98,Santa Cruz
+rbn,23294,,,15,189.98,Santa Cruz
+rbn,23309,,,0,159.98,Santa Cruz
+rbn,23310,,,0,39.99,Santa Cruz
+rbn,23313,,,0,119.97,Santa Cruz
+rbn,23314,,,15,169.99,Santa Cruz
+rbn,23315,,,15,164.99,Santa Cruz
+rbn,23337,,,15,54.99,Santa Cruz
+rbn,23339,,,20,139.97,Santa Cruz
+rbn,23340,,,15,214.98,Santa Cruz
+rbn,23367,,,15,94.98,Santa Cruz
+rbn,23368,,S,15,54.99,Santa Cruz
+rbn,23369,,,15,54.99,Santa Cruz
+rbn,23370,,,15,54.99,Santa Cruz
+rbn,23371,,,15,154.98,Santa Cruz
+rbn,23372,,L,15,264.98,La Paz
+rbn,23373,,,15,54.99,Santa Cruz
+rbn,23374,,L,15,94.98,La Paz
+rbn,23375,,S,15,214.98,Santa Cruz
+rbn,23449,,,15,164.99,Santa Cruz
+rbn,23450,,,15,143.0,Santa Cruz
+rbn,23452,,,15,134.97,Santa Cruz
+rbn,23454,,,15,130.0,Santa Cruz
+rbn,23455,,,15,94.98,Santa Cruz
+rbn,23456,,,15,54.99,Santa Cruz
+rbn,23457,,,15,143.0,Santa Cruz
+rbn,23696,,,15,164.99,Santa Cruz
+rbn,23698,,,15,134.97,Santa Cruz
+rbn,23834,,,15,164.99,Santa Cruz
+rbn,23897,,,15,294.97,Santa Cruz
+rbn,23898,,S,15,114.99,Santa Cruz
+rbn,23900,,,15,64.99,Santa Cruz
+rbn,23905,,,20,69.99,Santa Cruz
+rbn,23906,,,15,242.99,Santa Cruz
+rbn,24035,,,15,114.99,Santa Cruz
+rbn,24070,,,15,214.98,Santa Cruz
+rbn,24071,,S,15,114.99,Santa Cruz
+rbn,24073,,,15,94.99,Santa Cruz
+rbn,24078,,S,0,384.0,Santa Cruz
+rbn,24079,,,15,54.99,Santa Cruz
+rbn,24081,,,20,199.99,Santa Cruz
+rbn,24082,,,15,94.99,Santa Cruz
+rbn,24083,,,15,54.99,Santa Cruz
+rbn,24084,,,15,104.98,Santa Cruz
+rbn,24085,,L,15,134.99,La Paz
+rbn,24114,,S,15,54.99,Santa Cruz
+rbn,24115,,L,15,542.96,La Paz
+rbn,24122,,,15,454.92,Santa Cruz
+rbn,24123,,,15,114.98,Santa Cruz
+rbn,24126,,S,15,154.98,Santa Cruz
+rbn,24127,,C,15,140.0,Cochabamba
+rbn,24183,,,0,195.0,Santa Cruz
+rbn,24184,,,15,144.99,Santa Cruz
+rbn,24214,,,15,279.99,Santa Cruz
+rbn,24215,,,15,339.99,Santa Cruz
+rbn,24289,,,20,259.98,Santa Cruz
+rbn,24493,,,25,269.99,Santa Cruz
+rbn,24641,,L,15,154.99,La Paz
+rbn,24642,,,0,113.0,Santa Cruz
+rbn,24643,,C,15,144.99,Cochabamba
+rbn,24788,,,0,577.96,Santa Cruz
+rbn,24789,,S,15,144.99,Santa Cruz
+rbn,24791,,,0,139.99,Santa Cruz
+rbn,24793,,,45,184.99,Santa Cruz
+rbn,24795,,,15,144.99,Santa Cruz
+rbn,24796,,,0,270.0,Santa Cruz
+rbn,24804,,S,15,144.99,Santa Cruz
+rbn,24872,,,15,144.99,Santa Cruz
+rbn,24873,,,15,284.98,Santa Cruz
+rbn,24874,,,20,149.99,Santa Cruz
+rbn,24875,,,20,199.98,Santa Cruz
+rbn,24876,,S,20,149.99,Santa Cruz
+rbn,24888,,,15,153.0,Santa Cruz
+rbn,24889,,,15,202.99,Santa Cruz
+rbn,24890,,,15,134.99,Santa Cruz
+rbn,24891,,,20,149.99,Santa Cruz
+rbn,24892,,S,15,154.99,Santa Cruz
+rbn,24970,,S,15,144.99,Santa Cruz
+rbn,24972,,,30,329.98,Santa Cruz
+rbn,24974,,,15,134.99,Santa Cruz
+rbn,25013,,S,0,429.99,Santa Cruz
+rbn,25015,,,15,144.99,Santa Cruz
+rbn,25034,,,15,144.99,Santa Cruz
+rbn,25041,,S,15,184.98,Santa Cruz
+rbn,25379,,,15,130.0,Santa Cruz
+rbn,25380,,,15,144.99,Santa Cruz
+rbn,25383,,,15,209.99,Santa Cruz
+rbn,25387,,,0,814.96,Santa Cruz
+rbn,25389,,,15,144.99,Santa Cruz
+rbn,25390,,S,15,144.99,Santa Cruz
+rbn,25391,,L,15,144.99,La Paz
+rbn,25395,,,0,0.0,Santa Cruz
+rbn,25397,,,15,144.99,Santa Cruz
+rbn,25407,,,0,129.99,Santa Cruz
+rbn,25414,,,0,264.99,Santa Cruz
+rbn,25415,,,15,204.98,Santa Cruz
+rbn,25416,,L,15,130.0,La Paz
+rbn,25429,,L,20,149.99,La Paz
+rbn,25458,,,15,144.99,Santa Cruz
+rbn,25459,,,15,144.99,Santa Cruz
+rbn,25460,,,15,184.98,Santa Cruz
+rbn,25586,,,15,144.99,Santa Cruz
+rbn,25722,,,15,164.97,Santa Cruz
+rbn,25724,,,15,64.99,Santa Cruz
+rbn,25725,,,15,64.99,Santa Cruz
+rbn,25726,,C,15,114.98,Cochabamba
+rbn,25818,,S,15,332.98,Santa Cruz
+rbn,25921,,L,15,64.99,La Paz
+rbn,26023,,S,0,129.99,Santa Cruz
+rbn,26022,,,0,273.0,Santa Cruz
+rbn,26043,,,0,49.99,Santa Cruz
+rbn,26134,La Paz,,15,64.99,La Paz
+rbn,26066,,S,0,204.0,Santa Cruz
+rbn,26517,,,0,145.0,Santa Cruz
+rbn,26636,,L,15,174.99,La Paz
+rbn,26637,Cochabamba,C,15,150.0,Cochabamba
+rbn,26576,,,0,127.47,Santa Cruz
+rbn,26638,,,0,293.23,Santa Cruz
+rbn,26639,,,0,279.98,Santa Cruz
+rbn,26671,,,0,49.99,Santa Cruz
+rbn,26672,,,0,225.24,Santa Cruz
+rbn,26674,,L,15,234.98,La Paz
+rbn,26690,,S,0,319.99,Santa Cruz
+rbn,26673,,,0,110.49,Santa Cruz
+rbn,26694,,,0,238.0,Santa Cruz
+rbn,26695,,,0,135.99,Santa Cruz
+rbn,26696,,,0,49.99,Santa Cruz
+rbn,26697,,,0,110.49,Santa Cruz
+rbn,26698,,,0,127.49,Santa Cruz
+rbn,26707,"Zona Miraflores, avenida Saavedra N° 184, sucursal BCP",L,15,174.99,La Paz
+rbn,26709,,L,15,140.0,La Paz
+rbn,26699,,,0,143.0,Santa Cruz
+rbn,26710,,,0,115.0,Santa Cruz
+rbn,26714,,C,15,200.0,Cochabamba
+rbn,26716,Santa Cruz ,S,0,139.99,Santa Cruz
+rbn,26720,,C,15,174.99,Cochabamba
+rbn,26722,,C,15,189.99,Cochabamba
+rbn,26723,,S,15,189.99,Santa Cruz
+rbn,26717,,,0,342.98,Santa Cruz
+rbn,26724,,,0,135.0,Santa Cruz
+rbn,26725,,,0,159.99,Santa Cruz
+rbn,26726,,,0,49.99,Santa Cruz
+rbn,26730,,L,15,164.99,La Paz
+rbn,26732,,C,0,284.99,Cochabamba
+rbn,26733,,C,15,64.99,Cochabamba
+rbn,26734,,C,15,200.0,Cochabamba
+rbn,26735,,L,15,64.99,La Paz
+rbn,26738,,,0,49.99,Santa Cruz
+rbn,26742,,C,15,194.98,Cochabamba
+rbn,26743,,L,0,409.99,La Paz
+rbn,26739,,,0,49.99,Santa Cruz
+rbn,26746,,S,15,154.99,Santa Cruz
+rbn,26748,,L,20,209.98,La Paz
+rbn,26749,,L,0,364.97,La Paz
+rbn,26744,,,0,199.98,Santa Cruz
+rbn,26750,,,0,49.99,Santa Cruz
+rbn,26752,,L,15,64.99,La Paz
+rbn,26755,,L,15,204.98,La Paz
+rbn,26751,,,0,99.98,Santa Cruz
+rbn,26758,,,0,444.97,Santa Cruz
+rbn,26761,,L,15,64.99,La Paz
+rbn,26759,Santa Cruz,S,0,125.0,Santa Cruz
+rbn,26765,,C,15,174.99,Cochabamba
+rbn,26762,,,0,49.99,Santa Cruz
+rbn,26767,,S,15,164.99,Santa Cruz
+rbn,26766,,,0,99.98,Santa Cruz
+rbn,26770,,,0,49.99,Santa Cruz
+rbn,26772,,S,0,184.99,Santa Cruz
+rbn,26778,,,0,389.99,Santa Cruz
+rbn,26780,,,0,49.99,Santa Cruz
+rbn,26783,,C,15,190.0,Cochabamba
+rbn,26782,,,0,145.0,Santa Cruz
+rbn,26785,Villamontes,T,20,119.98,Tarija
+rbn,26786,,,0,129.99,Santa Cruz
+rbn,26787,,,0,149.99,Santa Cruz
+rbn,26788,,,0,49.99,Santa Cruz
+rbn,26789,,,0,284.99,Santa Cruz
+rbn,26792,,S,15,144.99,Santa Cruz
+rbn,26793,,L,15,150.0,La Paz
+rbn,26790,,,0,135.0,Santa Cruz
+rbn,26795,,,0,133.0,Santa Cruz
+rbn,26800,sucre,B,15,114.98,Beni
+rbn,26796,,,0,189.98,Santa Cruz
+rbn,26804,,L,15,114.98,La Paz
+rbn,26803,,,0,49.99,Santa Cruz
+rbn,26805,,,0,452.97,Santa Cruz
+rbn,26806,,,0,179.98,Santa Cruz
+rbn,26808,,L,0,395.99,La Paz
+rbn,26807,,,0,139.99,Santa Cruz
+rbn,26810,,,0,49.99,Santa Cruz
+rbn,26811,,,0,404.98,Santa Cruz
+rbn,26812,,,0,289.98,Santa Cruz
+rbn,26822,,,0,49.99,Santa Cruz
+rbn,26826,,,0,294.99,Santa Cruz
+rbn,26828,,L,15,64.99,La Paz
+rbn,26829,,T,15,154.99,Tarija
+rbn,26831,Santa Cruz ,S,0,149.99,Santa Cruz
+rbn,26833,,,0,379.98,Santa Cruz
+rbn,26834,,,0,129.99,Santa Cruz
+rbn,26840,Tupiza,,35,209.99,Santa Cruz
+rbn,26843,Sucre,,20,69.99,Santa Cruz
+rbn,26844,Sucre,,20,169.97,Santa Cruz
+rbn,26846,,L,15,224.98,La Paz
+rbn,26845,,,0,389.99,Santa Cruz
+rbn,26848,,,0,392.98,Santa Cruz
+rbn,26852,,L,15,144.99,La Paz
+rbn,26849,,,0,99.98,Santa Cruz
+rbn,26855,,,0,145.0,Santa Cruz
+rbn,26857,,,0,49.99,Santa Cruz
+rbn,26858,,,0,49.99,Santa Cruz
+rbn,26859,,,0,189.98,Santa Cruz
+rbn,26860,Santa Cruz de la Sierra ,S,0,504.96,Santa Cruz
+rbn,26861,,,0,49.99,Santa Cruz
+rbn,26862,Santa Cruz ,S,0,139.99,Santa Cruz
+rbn,26890,,,0,254.99,Santa Cruz
+rbn,26934,,,0,49.99,Santa Cruz
+rbn,26951,,C,15,197.99,Cochabamba
+rbn,26952,,C,15,164.97,Cochabamba
+rbn,26935,,,0,135.0,Santa Cruz
+rbn,26954,,,0,49.99,Santa Cruz
+rbn,26955,,,0,49.99,Santa Cruz
+rbn,26957,,,0,567.98,Santa Cruz
+rbn,26956,,,0,254.99,Santa Cruz
+rbn,27094,,,0,49.99,Santa Cruz
+rbn,27095,,,0,49.99,Santa Cruz
+rbn,27096,,,0,397.99,Santa Cruz
+rbn,27097,,,0,49.99,Santa Cruz
+rbn,27098,Santa Cruz de la Sierra,S,0,164.99,Santa Cruz
+rbn,27099,Santa Cruz de la sierra,S,0,148.0,Santa Cruz
+rbn,27100,,,0,49.99,Santa Cruz
+rbn,27164,,B,20,254.99,Beni
+rbn,27134,,,0,49.99,Santa Cruz
+rbn,27165,,,0,49.99,Santa Cruz
+rbn,27167,,T,15,150.0,Tarija
+rbn,27189,,L,15,30.0,La Paz
+rbn,27190,,,15,265.0,Santa Cruz
+rbn,27191,,L,15,234.98,La Paz
+rbn,27192,,L,15,184.98,La Paz
+rbn,27194,,L,15,244.97,La Paz
+rbn,27450,,S,30,164.99,Santa Cruz
+rbn,27452,,,15,234.98,Santa Cruz
+rbn,27453,,C,15,189.99,Cochabamba
+rbn,27454,,C,15,289.98,Cochabamba
+rbn,27455,,,0,49.99,Santa Cruz
+rbn,27458,,,15,114.99,Santa Cruz
+rbn,27459,,C,15,289.98,Cochabamba
+rbn,27457,,,0,289.99,Santa Cruz
+rbn,27460,Santa Cruz ,S,0,182.99,Santa Cruz
+rbn,27461,,,0,49.99,Santa Cruz
+rbn,27463,,S,0,214.98,Santa Cruz
+rbn,27462,,,0,115.0,Santa Cruz
+rbn,27602,,S,0,49.99,Santa Cruz
+rbn,27601,,,0,99.98,Santa Cruz
+rbn,27603,,,0,176.99,Santa Cruz
+rbn,27604,Santa Cruz de la sierra,S,0,176.99,Santa Cruz
+rbn,27605,,,0,344.98,Santa Cruz
+rbn,27606,,,0,119.99,Santa Cruz
+rbn,27608,,C,15,160.0,Cochabamba
+rbn,27609,,S,0,1049.95,Santa Cruz
+rbn,28060,,L,15,274.97,La Paz
+rbn,28061,,T,15,134.99,Tarija
+rbn,28062,,C,15,444.95,Cochabamba
+rbn,28186,,,0,99.99,Santa Cruz
+rbn,28188,,B,20,139.99,Beni
+rbn,28189,Trinidad,H,15,114.98,Chuquisaca
+rbn,27607,,,0,432.98,Santa Cruz
+rbn,28190,,,0,270.0,Santa Cruz
+rbn,28191,,,0,620.0,Santa Cruz
+rbn,28252,,L,20,219.98,La Paz
+rbn,28253,,L,20,149.99,La Paz
+rbn,28192,,,0,164.99,Santa Cruz
+rbn,28255,,L,15,64.99,La Paz
+rbn,28307,,L,15,252.98,La Paz
+rbn,28313,,,15,114.98,Santa Cruz
+rbn,28254,,,0,99.98,Santa Cruz
+rbn,28316,,B,20,219.98,Beni
+rbn,28314,,,0,184.99,Santa Cruz
+rbn,28321,,,0,304.99,Santa Cruz
+rbn,28324,,,15,64.99,Santa Cruz
+rbn,28327,,B,15,79.99,Beni
+rbn,28328,La Paz,L,15,64.99,La Paz
+rbn,28329,,,15,144.99,Santa Cruz
+rbn,28330,,C,0,399.95,Cochabamba
+rbn,28323,Santa Cruz de la sierra,S,0,129.99,Santa Cruz
+rbn,28332,,S,0,99.98,Santa Cruz
+rbn,28355,,B,15,402.99,Beni
+rbn,28354,Montero,S,20,69.99,Santa Cruz
+rbn,28356,,,0,49.99,Santa Cruz
+rbn,28358,,,0,125.0,Santa Cruz
+rbn,28359,Santa Cruz de la sierra,S,0,49.99,Santa Cruz
+rbn,28404,,S,0,139.99,Santa Cruz
+rbn,28407,,L,15,64.99,La Paz
+rbn,28360,,,0,99.98,Santa Cruz
+rbn,28487,,,0,531.97,Santa Cruz
+rbn,28486,,,0,49.99,Santa Cruz
+rbn,28488,,,0,431.0,Santa Cruz
+rbn,28489,,,0,129.99,Santa Cruz
+rbn,28490,,,0,49.99,Santa Cruz
+rbn,28491,,,0,189.98,Santa Cruz
+rbn,28492,Santa Cruz de la sierra,S,0,450.88,Santa Cruz
+rbn,28493,,,0,264.99,Santa Cruz
+rbn,28497,,,0,179.98,Santa Cruz
+rbn,28575,,,0,149.99,Santa Cruz
+rbn,29111,,S,15,174.99,Santa Cruz
+rbn,29851,,S,0,129.99,Santa Cruz
+rbn,28576,Santa Cruz de la sierra,S,0,99.98,Santa Cruz
+rbn,29861,,,0,49.99,Santa Cruz
+rbn,29912,,,0,254.99,Santa Cruz
+rbn,29913,,,0,284.97,Santa Cruz
+rbn,29945,,,0,247.98,Santa Cruz
+rbn,29946,Santa Cruz de la sierra ,S,0,169.98,Santa Cruz
+rbn,29949,Santa Cruz de la sierra ,S,0,202.0,Santa Cruz
+rbn,29969,,C,15,169.98,Cochabamba
+rbn,29970,,S,0,79.98,Santa Cruz
+rbn,29972,,S,15,54.99,Santa Cruz
+rbn,29973,,,0,39.99,Santa Cruz
+rbn,29974,,,0,79.98,Santa Cruz
+rbn,29975,,,0,39.99,Santa Cruz
+rbn,29976,,,0,39.99,Santa Cruz
+rbn,29978,,C,15,94.98,Cochabamba
+rbn,29979,,S,0,359.96,Santa Cruz
+rbn,29977,,,0,39.99,Santa Cruz
+rbn,29981,,,0,39.99,Santa Cruz
+rbn,29982,,,0,219.98,Santa Cruz
+rbn,29984,,L,15,184.97,La Paz
+rbn,29983,,,0,99.99,Santa Cruz
+rbn,29985,,,0,99.99,Santa Cruz
+rbn,29986,,,0,39.99,Santa Cruz
+rbn,29992,,S,30,246.99,Santa Cruz
+rbn,29993,,L,15,54.99,La Paz
+rbn,29995,,L,15,161.99,La Paz
+rbn,29996,,C,20,194.98,Cochabamba
+rbn,29997,,,15,54.99,Santa Cruz
+rbn,29987,,,0,119.97,Santa Cruz
+rbn,29999,,,15,201.98,Santa Cruz
+rbn,29998,,,0,99.99,Santa Cruz
+rbn,30000,,,0,125.0,Santa Cruz
+rbn,30002,,L,15,301.99,La Paz
+rbn,30003,,L,20,119.98,La Paz
+rbn,30001,,,0,39.99,Santa Cruz
+rbn,30005,,,0,39.99,Santa Cruz
+rbn,30006,,,0,119.97,Santa Cruz
+rbn,30010,,,15,154.98,Santa Cruz
+rbn,30031,,,20,165.0,Santa Cruz
+rbn,30008,,,0,125.0,Santa Cruz
+rbn,30032,,,0,99.99,Santa Cruz
+rbn,30033,,,0,204.98,Santa Cruz
+rbn,30078,,L,15,114.99,La Paz
+rbn,30302,,,15,54.99,Santa Cruz
+rbn,30303,,B,15,300.0,Beni
+rbn,30519,,L,0,804.93,La Paz
+rbn,30520,,L,15,301.99,La Paz
+rbn,30034,,,0,119.99,Santa Cruz
+rbn,30521,,,0,109.99,Santa Cruz
+rbn,30523,,,15,214.98,Santa Cruz
+rbn,30606,,C,0,1021.85,Cochabamba
+rbn,30633,,,0,264.98,Santa Cruz
+rbn,30634,,,15,289.99,Santa Cruz
+rbn,30522,,,0,169.98,Santa Cruz
+rbn,30635,0,S,0,39.99,Santa Cruz
+rbn,30637,,,0,39.99,Santa Cruz
+rbn,30639,,S,0,429.97,Santa Cruz
+rbn,30851,,L,15,344.96,La Paz
+rbn,30758,,,0,279.98,Santa Cruz
+rbn,30960,,,0,149.99,Santa Cruz
+rbn,31359,,S,0,194.99,Santa Cruz
+rbn,31670,,L,15,179.97,La Paz
+rbn,31360,Santa Cruz de la sierra,S,0,129.99,Santa Cruz
+rbn,31786,,S,15,154.99,Santa Cruz
+rbn,31681,,,0,139.99,Santa Cruz
+rbn,31789,Santa Cruz,S,15,152.0,Santa Cruz
+rbn,31790,,,0,137.0,Santa Cruz
+rbn,31866,,,0,155.0,Santa Cruz
+rbn,31867,,S,0,139.99,Santa Cruz
+rbn,31868,,,0,147.0,Santa Cruz
+rbn,31870,,,0,579.98,Santa Cruz
+rbn,31871,,S,0,137.0,Santa Cruz
+rbn,31872,Santa Cruz,S,0,149.99,Santa Cruz
+rbn,31889,,L,15,234.98,La Paz
+rbn,31891,,L,15,324.97,La Paz
+rbn,31892,,H,20,79.99,Chuquisaca
+rbn,31873,,,0,169.99,Santa Cruz
+rbn,31894,,,15,180.0,Santa Cruz
+rbn,31893,,,0,456.98,Santa Cruz
+rbn,31895,,,0,219.98,Santa Cruz
+rbn,31896,,,0,159.99,Santa Cruz
+rbn,31897,,S,0,149.99,Santa Cruz
+rbn,31898,,,0,139.99,Santa Cruz
+rbn,31901,,,0,145.0,Santa Cruz
+rbn,31902,,,0,147.0,Santa Cruz
+rbn,31904,,,0,119.98,Santa Cruz
+rbn,31914,,,15,154.99,Santa Cruz
+rbn,31913,,,0,127.0,Santa Cruz
+rbn,31915,,,0,145.0,Santa Cruz
+rbn,31918,,S,15,306.99,Santa Cruz
+rbn,31919,,L,15,644.98,La Paz
+rbn,31920,,L,15,329.99,La Paz
+rbn,31921,,T,15,179.99,Tarija
+rbn,31922,,T,15,154.99,Tarija
+rbn,31923,,S,20,169.99,Santa Cruz
+rbn,31916,,,0,155.0,Santa Cruz
+rbn,31925,,,0,149.99,Santa Cruz
+rbn,31926,,,0,59.99,Santa Cruz
+rbn,32099,,L,15,84.99,La Paz
+rbn,32100,,S,0,59.99,Santa Cruz
+rbn,32101,,L,15,491.97,La Paz
+rbn,31927,,,0,300.0,Santa Cruz
+rbn,32103,,S,0,149.99,Santa Cruz
+rbn,32105,,L,20,652.96,La Paz
+rbn,32104,,,0,319.96,Santa Cruz
+rbn,32106,,,0,147.0,Santa Cruz
+rbn,32107,,S,0,294.0,Santa Cruz
+rbn,32109,,,0,59.99,Santa Cruz
+rbn,32348,,C,20,244.98,Cochabamba
+rbn,32349,,L,15,74.99,La Paz
+rbn,32352,,B,15,180.0,Beni
+rbn,32353,,,15,204.99,Santa Cruz
+rbn,32354,,L,15,168.0,La Paz
+rbn,32110,,,0,59.99,Santa Cruz
+rbn,32355,,,0,196.99,Santa Cruz
+rbn,32364,,L,15,301.99,La Paz
+rbn,32365,,S,15,291.99,Santa Cruz
+rbn,32363,,,0,139.99,Santa Cruz
+rbn,32366,,S,0,139.99,Santa Cruz
+rbn,32368,,L,15,224.97,La Paz
+rbn,32369,,L,15,152.0,La Paz
+rbn,32367,,,0,413.98,Santa Cruz
+rbn,32370,,S,0,649.99,Santa Cruz
+rbn,32371,,,0,199.98,Santa Cruz
+rbn,32373,,,0,139.99,Santa Cruz
+rbn,32374,,,0,59.99,Santa Cruz
+rbn,32493,,,0,59.99,Santa Cruz
+rbn,32494,,,0,204.99,Santa Cruz
+rbn,32495,,S,0,292.99,Santa Cruz
+rbn,32496,,,0,149.99,Santa Cruz
+rbn,32497,,S,0,155.0,Santa Cruz
+rbn,32498,,S,0,165.0,Santa Cruz
+rbn,32501,,,15,251.99,Santa Cruz
+rbn,32499,,,0,165.0,Santa Cruz
+rbn,32502,,,0,50.0,Santa Cruz
+rbn,32503,,S,0,431.0,Santa Cruz
+rbn,32504,,,0,139.99,Santa Cruz
+rbn,32505,,,0,229.98,Santa Cruz
+rbn,32506,,,0,59.99,Santa Cruz
+rbn,32507,,,0,99.99,Santa Cruz
+rbn,32508,,,0,125.0,Santa Cruz
+rbn,32563,,S,15,162.0,Santa Cruz
+rbn,32509,,,0,209.98,Santa Cruz
+rbn,32566,,B,15,154.98,Beni
+rbn,32567,,B,15,214.99,Beni
+rbn,32565,,,0,59.99,Santa Cruz
+rbn,32570,,C,15,401.98,Cochabamba
+rbn,32571,,B,15,499.98,Beni
+rbn,32569,,,0,274.99,Santa Cruz
+rbn,32574,,B,15,299.99,Beni
+rbn,32575,,L,15,154.99,La Paz
+rbn,32577,,C,15,104.98,Cochabamba
+rbn,32572,,,0,514.96,Santa Cruz
+rbn,32578,,S,0,282.0,Santa Cruz
+rbn,32581,,,20,185.0,Santa Cruz
+rbn,32580,,,0,224.99,Santa Cruz
+rbn,32582,,,0,314.99,Santa Cruz
+rbn,32583,,,0,157.0,Santa Cruz
+rbn,32584,,,0,139.99,Santa Cruz
+rbn,32585,,,0,59.99,Santa Cruz
+rbn,32586,,S,0,292.99,Santa Cruz
+rbn,32587,,,0,224.99,Santa Cruz
+rbn,32591,,B,15,327.0,Beni
+rbn,32588,,S,0,139.99,Santa Cruz
+rbn,32597,,L,15,204.99,La Paz
+rbn,32596,,,0,274.0,Santa Cruz
+rbn,32599,,,0,59.99,Santa Cruz
+rbn,32600,,,0,139.99,Santa Cruz
+rbn,32601,,,0,145.0,Santa Cruz
+rbn,32606,,C,15,74.99,Cochabamba
+rbn,32609,,L,15,384.97,La Paz
+rbn,32610,,,0,139.99,Santa Cruz
+rbn,32611,,,0,314.99,Santa Cruz
+rbn,32612,,,0,149.99,Santa Cruz
+rbn,32613,,,0,451.99,Santa Cruz
+rbn,32617,,,0,299.98,Santa Cruz
+rbn,32619,,,0,69.99,Santa Cruz
+rbn,32620,,,15,180.0,Santa Cruz
+rbn,32618,,,0,310.0,Santa Cruz
+rbn,32622,,,15,162.0,Santa Cruz
+rbn,32623,,,15,234.98,Santa Cruz
+rbn,32621,,,0,319.98,Santa Cruz
+rbn,32624,,,0,259.96,Santa Cruz
+rbn,32627,,B,15,224.98,Beni
+rbn,32625,,,0,127.0,Santa Cruz
+rbn,32628,,,0,135.0,Santa Cruz
+rbn,32629,,,0,59.99,Santa Cruz
+rbn,32630,0,,0,139.99,Santa Cruz
+rbn,32631,,S,0,147.0,Santa Cruz
+rbn,32632,,,0,155.0,Santa Cruz
+rbn,32633,,,0,202.99,Santa Cruz
+rbn,32634,,,0,137.0,Santa Cruz
+rbn,32635,,,0,59.99,Santa Cruz
+rbn,32636,,,0,268.0,Santa Cruz
+rbn,32651,,,0,59.99,Santa Cruz
+rbn,32652,,,0,219.98,Santa Cruz
+rbn,32653,,,0,145.0,Santa Cruz
+rbn,32654,,,0,127.0,Santa Cruz
+rbn,32655,,,0,59.99,Santa Cruz
+rbn,32656,,,0,69.99,Santa Cruz
+rbn,32658,,,0,59.99,Santa Cruz
+rbn,32659,,,0,159.99,Santa Cruz
+rbn,32660,,,0,139.99,Santa Cruz
+rbn,32661,,,0,59.99,Santa Cruz
+rbn,32662,,,0,147.0,Santa Cruz
+rbn,32663,,,0,59.99,Santa Cruz
+rbn,32664,,,0,139.99,Santa Cruz
+rbn,32665,,,0,149.99,Santa Cruz
+rbn,32666,,,0,155.0,Santa Cruz
+rbn,32667,,,0,155.0,Santa Cruz
+rbn,32668,,,0,224.99,Santa Cruz
+rbn,32669,,,0,454.98,Santa Cruz
+rbn,32670,,,0,149.99,Santa Cruz
+rbn,32678,,,0,186.99,Santa Cruz
+rbn,32679,,,0,292.0,Santa Cruz
+rbn,32680,,,0,119.98,Santa Cruz
+rbn,32684,,,0,59.99,Santa Cruz
+rbn,32685,,,0,135.0,Santa Cruz
+rbn,32686,,,0,127.0,Santa Cruz
+rbn,32687,,,0,59.99,Santa Cruz
+rbn,32688,,,0,69.99,Santa Cruz
+rbn,32690,,,0,159.99,Santa Cruz
+rbn,32691,,,0,125.0,Santa Cruz
+rbn,32692,,,0,145.0,Santa Cruz
+rbn,32693,,,0,59.99,Santa Cruz
+rbn,32696,,,0,59.99,Santa Cruz
+rbn,32697,,,0,145.0,Santa Cruz
+rbn,32732,,L,15,134.98,La Paz
+rbn,32733,,H,15,84.99,Chuquisaca
+rbn,32734,,B,15,84.99,Beni
+rbn,32704,,,0,59.99,Santa Cruz
+rbn,32737,,B,15,84.99,Beni
+rbn,32738,,L,15,154.98,La Paz
+rbn,32740,,L,15,84.99,La Paz
+rbn,32741,,H,15,264.96,Chuquisaca
+rbn,32742,,S,0,154.98,Santa Cruz
+rbn,32743,,L,15,239.97,La Paz
+rbn,32744,,L,15,74.99,La Paz
+rbn,32746,,H,15,84.99,Chuquisaca
+rbn,32736,,,0,59.99,Santa Cruz
+rbn,32750,,L,15,872.98,La Paz
+rbn,32772,,L,15,180.0,La Paz
+rbn,32749,,,0,69.99,Santa Cruz
+rbn,32773,,,0,129.98,Santa Cruz
+rbn,32774,,,0,149.99,Santa Cruz
+rbn,32775,,,0,135.0,Santa Cruz
+rbn,32776,,,0,139.99,Santa Cruz
+rbn,32777,,,0,69.99,Santa Cruz
+rbn,32780,,S,15,74.99,Santa Cruz
+rbn,32782,,B,15,84.99,Beni
+rbn,32784,,S,15,444.93,Santa Cruz
+rbn,32786,,C,15,84.99,Cochabamba
+rbn,32788,Santa Cruz de la Sierra,,0,279.98,Santa Cruz
+rbn,32778,,,0,59.99,Santa Cruz
+rbn,32790,,L,15,84.99,La Paz
+rbn,32792,,C,15,134.98,Cochabamba
+rbn,32789,,,0,59.99,Santa Cruz
+rbn,32794,,,0,159.99,Santa Cruz
+rbn,32796,,S,15,84.99,Santa Cruz
+rbn,32797,,C,15,84.99,Cochabamba
+rbn,32798,,S,15,84.99,Santa Cruz
+rbn,32800,,C,15,84.99,Cochabamba
+rbn,32801,,C,15,319.99,Cochabamba
+rbn,32795,,,0,352.98,Santa Cruz
+rbn,32803,,L,15,249.99,La Paz
+rbn,32805,,T,15,214.97,Tarija
+rbn,32802,,,0,214.99,Santa Cruz
+rbn,32807,,,15,84.99,Santa Cruz
+rbn,32809,,S,15,84.99,Santa Cruz
+rbn,32806,,,0,127.0,Santa Cruz
+rbn,32811,,S,15,84.99,Santa Cruz
+rbn,32810,,,0,59.99,Santa Cruz
+rbn,32812,,,0,59.99,Santa Cruz
+rbn,32813,,,0,59.99,Santa Cruz
+rbn,32815,,,0,59.99,Santa Cruz
+rbn,32817,,,0,99.98,Santa Cruz
+rbn,32820,,C,15,239.97,Cochabamba
+rbn,32818,,,0,149.99,Santa Cruz
+rbn,32856,,S,0,554.99,Santa Cruz
+rbn,32857,,S,0,296.99,Santa Cruz
+rbn,32858,,,0,159.99,Santa Cruz
+rbn,32859,,,0,59.99,Santa Cruz
+rbn,32860,,,0,139.99,Santa Cruz
+rbn,32862,,L,15,274.96,La Paz
+rbn,32869,,H,15,144.98,Chuquisaca
+rbn,32873,,L,15,144.98,La Paz
+rbn,32876,,L,15,172.0,La Paz
+rbn,32861,,,0,135.0,Santa Cruz
+rbn,32878,,,0,119.98,Santa Cruz
+rbn,32880,,L,15,84.99,La Paz
+rbn,32879,,S,0,139.99,Santa Cruz
+rbn,32882,Cochabamba,,15,1188.0,Cochabamba
+rbn,32881,,,0,59.99,Santa Cruz
+rbn,32887,,L,15,154.98,La Paz
+rbn,32888,,B,15,314.96,Beni
+rbn,32889,,L,15,244.98,La Paz
+rbn,32890,,O,15,224.97,Oruro
+rbn,32883,,S,0,135.0,Santa Cruz
+rbn,32891,,,0,59.99,Santa Cruz
+rbn,32895,,P,15,144.98,Potosí
+rbn,32894,,,0,119.98,Santa Cruz
+rbn,32901,,L,15,74.99,La Paz
+rbn,32902,,,0,149.99,Santa Cruz
+rbn,32896,,,0,219.98,Santa Cruz
+rbn,32904,,,0,59.99,Santa Cruz
+rbn,32908,,L,15,74.99,La Paz
+rbn,32918,,C,15,204.97,Cochabamba
+rbn,32920,,L,15,84.99,La Paz
+rbn,32905,,,0,59.99,Santa Cruz
+rbn,32923,,B,15,307.99,Beni
+rbn,32922,,,0,59.99,Santa Cruz
+rbn,32925,,C,15,74.99,Cochabamba
+rbn,32929,,C,15,154.98,Cochabamba
+rbn,32930,,L,15,84.99,La Paz
+rbn,32932,,C,20,244.99,Cochabamba
+rbn,32934,,S,15,74.99,Santa Cruz
+rbn,32924,,,0,139.98,Santa Cruz
+rbn,32939,,P,15,134.98,Potosí
+rbn,32940,,C,20,79.99,Cochabamba
+rbn,32950,,S,20,79.99,Santa Cruz
+rbn,32951,,S,15,74.99,Santa Cruz
+rbn,32952,,L,15,134.98,La Paz
+rbn,32953,,T,15,84.99,Tarija
+rbn,32937,,,0,129.98,Santa Cruz
+rbn,32957,,BO-C,15,84.99,Cochabamba
+rbn,32958,,BO-B,15,224.98,Beni
+rbn,32959,,BO-L,15,224.97,La Paz
+rbn,32954,,,0,139.99,Santa Cruz
+rbn,32968,,BO-L,15,74.99,La Paz
+rbn,32960,,,0,59.99,Santa Cruz
+rbn,32970,,,0,69.99,Santa Cruz
+rbn,32971,,,0,59.99,Santa Cruz
+rbn,32972,,,0,306.99,Santa Cruz
+rbn,32973,,,0,276.99,Santa Cruz
+rbn,32974,,,0,135.0,Santa Cruz
+rbn,32975,,,0,596.0,Santa Cruz
+rbn,32977,,,0,334.99,Santa Cruz
+rbn,32979,,BO-O,20,89.99,Oruro
+rbn,32978,,,0,129.98,Santa Cruz
+rbn,32980,,,0,59.99,Santa Cruz
+rbn,32984,,BO-H,15,294.96,Chuquisaca
+rbn,32983,,,0,254.98,Santa Cruz
+rbn,32987,,,0,69.99,Santa Cruz
+rbn,32989,,,0,147.0,Santa Cruz
+rbn,33001,,,0,153.0,Santa Cruz
+rbn,33060,,,0,59.99,Santa Cruz
+rbn,33061,,,0,149.99,Santa Cruz
+rbn,33062,,,0,153.0,Santa Cruz
+rbn,33230,,BO-T,15,94.99,Tarija
+rbn,33231,,,0,119.98,Santa Cruz
+rbn,33228,,,0,149.99,Santa Cruz
+rbn,33248,,BO-C,15,74.99,Cochabamba
+rbn,33249,,BO-C,15,94.99,Cochabamba
+rbn,33233,,,0,107.0,Santa Cruz
+rbn,33252,,,0,266.99,Santa Cruz
+rbn,33256,,BO-L,15,239.98,La Paz
+rbn,33255,,BO-S,0,119.98,Santa Cruz
+rbn,33258,,BO-C,15,94.99,Cochabamba
+rbn,33262,,BO-L,15,94.98,La Paz
+rbn,33257,,,0,119.98,Santa Cruz
+rbn,33264,,BO-L,15,94.99,La Paz
+rbn,33265,,BO-C,15,94.99,Cochabamba
+rbn,33266,,BO-P,20,264.98,Potosí
+rbn,33267,,,0,496.95,Santa Cruz
+rbn,33263,,,0,115.0,Santa Cruz
+rbn,33270,,BO-L,15,109.99,La Paz
+rbn,33271,,BO-L,15,94.99,La Paz
+rbn,33269,,BO-S,0,209.98,Santa Cruz
+rbn,33273,,BO-T,15,246.98,Tarija
+rbn,33274,,,0,79.99,Santa Cruz
+rbn,33272,,,0,59.99,Santa Cruz
+rbn,33276,,,0,153.0,Santa Cruz
+rbn,33277,,,0,174.99,Santa Cruz
+rbn,33278,,,0,115.0,Santa Cruz
+rbn,33279,,,0,59.99,Santa Cruz
+rbn,33282,,BO-S,0,115.0,Santa Cruz
+rbn,33285,,BO-H,15,54.99,Chuquisaca
+rbn,33287,,BO-L,15,124.97,La Paz
+rbn,33290,,BO-C,0,59.99,Cochabamba
+rbn,33292,,,0,69.99,Santa Cruz
+rbn,33283,,,0,194.99,Santa Cruz
+rbn,33293,,,0,69.99,Santa Cruz
+rbn,33294,,,0,373.98,Santa Cruz
+rbn,33301,,BO-B,15,94.99,Beni
+rbn,33295,,,0,139.99,Santa Cruz
+rbn,33305,,BO-B,15,384.99,Beni
+rbn,33308,,BO-C,15,224.98,Cochabamba
+rbn,33303,,,0,127.0,Santa Cruz
+rbn,33310,,BO-T,15,229.99,Tarija
+rbn,33309,,,0,204.99,Santa Cruz
+rbn,33317,,BO-B,15,94.99,Beni
+rbn,33323,,BO-H,15,54.99,Chuquisaca
+rbn,33319,,,0,59.99,Santa Cruz
+rbn,33324,,,0,145.0,Santa Cruz
+rbn,33326,,BO-S,15,54.99,Santa Cruz
+rbn,33327,,BO-B,15,94.99,Beni
+rbn,33325,,,0,157.0,Santa Cruz
+rbn,33329,,BO-S,0,224.98,Santa Cruz
+rbn,33331,,,0,127.0,Santa Cruz
+rbn,33332,,,0,59.99,Santa Cruz
+rbn,33333,,,0,130.0,Santa Cruz
+rbn,33335,,BO-S,0,74.99,Santa Cruz
+rbn,33336,,BO-C,15,69.99,Cochabamba
+rbn,33334,,,0,153.0,Santa Cruz
+rbn,33340,,BO-P,20,94.99,Potosí
+rbn,33342,,,0,59.99,Santa Cruz
+rbn,33344,,,0,69.99,Santa Cruz
+rbn,33349,,BO-P,20,59.99,Potosí
+rbn,33347,,,0,129.98,Santa Cruz
+rbn,33350,,,0,145.0,Santa Cruz
+rbn,33352,,,15,94.99,Santa Cruz
+rbn,33351,,,0,135.0,Santa Cruz
+rbn,33353,,,0,296.98,Santa Cruz
+rbn,33354,,,0,229.98,Santa Cruz
+rbn,33387,,BO-L,15,54.99,La Paz
+rbn,33389,,,0,79.99,Santa Cruz
+rbn,33390,,,0,59.99,Santa Cruz
+rbn,33405,,,0,165.0,Santa Cruz
+rbn,33408,,,0,139.99,Santa Cruz
+rbn,33410,,,0,153.0,Santa Cruz
+rbn,33411,,,0,149.99,Santa Cruz
+rbn,33413,,,0,219.98,Santa Cruz
+rbn,33415,,,0,59.99,Santa Cruz
+rbn,33550,,BO-S,0,289.98,Santa Cruz
+rbn,33552,,,15,94.99,Santa Cruz
+rbn,33551,,,0,159.99,Santa Cruz
+rbn,33560,,,0,139.99,Santa Cruz
+rbn,33564,,BO-B,15,99.99,Beni
+rbn,33562,,,0,414.98,Santa Cruz
+rbn,33568,,,0,59.99,Santa Cruz
+rbn,33654,,BO-B,15,84.99,Beni
+rbn,33655,,BO-H,15,309.97,Chuquisaca
+rbn,33656,,BO-C,15,394.98,Cochabamba
+rbn,33569,,,0,149.99,Santa Cruz
+rbn,33664,,BO-S,15,214.98,Santa Cruz
+rbn,33666,,,15,74.99,Santa Cruz
+rbn,33660,,,0,155.0,Santa Cruz
+rbn,33669,,,0,129.99,Santa Cruz
+rbn,33670,,,0,155.0,Santa Cruz
+rbn,33676,,BO-C,15,124.98,Cochabamba
+rbn,33675,,,0,179.97,Santa Cruz
+rbn,33691,,BO-C,15,164.98,Cochabamba
+rbn,33695,,BO-L,15,94.99,La Paz
+rbn,33693,,,0,79.99,Santa Cruz
+rbn,33709,,,0,206.99,Santa Cruz
+rbn,33714,,,0,292.99,Santa Cruz
+rbn,33715,,,0,69.99,Santa Cruz
+rbn,33725,,,15,279.98,Santa Cruz
+rbn,33716,,,0,59.99,Santa Cruz
+rbn,33751,,,0,59.99,Santa Cruz
+rbn,33838,,BO-O,15,312.0,Oruro
+rbn,33839,,BO-H,15,140.0,Chuquisaca
+rbn,33842,,,0,59.99,Santa Cruz
+rbn,33852,,BO-P,25,154.99,Potosí
+rbn,34028,,BO-H,15,238.98,Chuquisaca
+rbn,33841,,,0,137.0,Santa Cruz
+rbn,34454,,,15,144.99,Santa Cruz
+rbn,34456,,BO-S,20,158.0,Santa Cruz
+rbn,34458,,,0,139.98,Santa Cruz
+rbn,34272,,,0,159.99,Santa Cruz
+rbn,34459,,,0,206.99,Santa Cruz
+rbn,34503,,,0,59.99,Santa Cruz
+rbn,34504,,,0,59.99,Santa Cruz
+rbn,34506,,BO-S,0,79.99,Santa Cruz
+rbn,34519,,,0,69.99,Santa Cruz
+rbn,34527,,,0,306.99,Santa Cruz
+rbn,34528,,,0,359.97,Santa Cruz
+rbn,34537,,,0,159.99,Santa Cruz
+rbn,34538,,,0,137.0,Santa Cruz
+rbn,34541,,,0,127.0,Santa Cruz
+rbn,34791,,,0,157.0,Santa Cruz
+rbn,34843,,,0,209.98,Santa Cruz
+rbn,34934,,,0,135.0,Santa Cruz
+rbn,34969,,,0,389.99,Santa Cruz
+rbn,34971,,,0,149.99,Santa Cruz
+rbn,34972,,,0,0.0,Santa Cruz
+rbn,34973,,,0,286.99,Santa Cruz
+rbn,35099,,,15,84.99,Santa Cruz
+rbn,35123,,BO-S,0,59.49,Santa Cruz
+rbn,35097,,,0,59.99,Santa Cruz
+rbn,35124,,,0,165.0,Santa Cruz
+rbn,35129,,,0,59.99,Santa Cruz
+rbn,35291,,BO-L,15,154.99,La Paz
+rbn,35296,,,15,144.99,Santa Cruz
+rbn,35308,,,0,155.0,Santa Cruz
+rbn,35309,,,0,212.99,Santa Cruz
+rbn,35330,,,0,59.99,Santa Cruz
+rbn,35332,,,0,147.0,Santa Cruz
+rbn,35331,,,0,59.99,Santa Cruz
+rbn,35333,,,0,125.0,Santa Cruz
+rbn,35402,,BO-H,15,365.0,Chuquisaca
+rbn,35409,,,15,154.99,Santa Cruz
+rbn,35381,,,0,314.99,Santa Cruz
+rbn,35413,,,0,69.99,Santa Cruz
+rbn,35416,,BO-S,15,84.99,Santa Cruz
+rbn,35414,,,0,155.0,Santa Cruz
+rbn,35417,,,0,59.99,Santa Cruz
+rbn,35421,,,0,149.99,Santa Cruz
+rbn,35422,,,0,59.99,Santa Cruz
+rbn,35423,,,0,129.98,Santa Cruz
+rbn,35424,,,0,59.99,Santa Cruz
+rbn,35426,,,0,219.98,Santa Cruz
+rbn,35427,,,0,59.99,Santa Cruz
+rbn,35428,,,0,289.98,Santa Cruz
+rbn,35430,,BO-L,15,204.99,La Paz
+rbn,35432,,BO-L,15,229.99,La Paz
+rbn,35435,Cochabamba,,0,139.99,Cochabamba
+rbn,35436,Potosi,,0,15.0,Santa Cruz
+rbn,35429,,,0,155.0,Santa Cruz
+rbn,35438,,,0,59.99,Santa Cruz
+rbn,35441,La Paz,,0,344.98,La Paz
+rbn,35442,La Paz,,0,219.98,La Paz
+rbn,35439,,,0,269.98,Santa Cruz
+rbn,35445,Santa cruz,,0,159.99,Santa Cruz
+rbn,35449,La Paz,BO-L,15,154.99,La Paz
+rbn,35542,,BO-C,15,349.97,Cochabamba
+rbn,35781,,BO-L,15,170.0,La Paz
+rbn,35784,,,0,145.0,Santa Cruz
+rbn,35785,,,0,99.98,Santa Cruz
+rbn,35787,,BO-H,15,211.99,Chuquisaca
+rbn,35937,Potosi,BO-P,25,180.0,Potosí
+rbn,35786,,,0,147.0,Santa Cruz
+rbn,36048,,,0,147.0,Santa Cruz
+rbn,36049,,,0,59.99,Santa Cruz
+rbn,36123,,BO-T,0,764.93,Tarija
+rbn,36106,,,0,149.99,Santa Cruz
+rbn,36130,,BO-L,0,216.99,La Paz
+rbn,36132,,BO-C,15,74.98,Cochabamba
+rbn,36124,,,0,59.99,Santa Cruz
+rbn,36133,,,0,559.91,Santa Cruz
+rbn,36135,,,0,282.0,Santa Cruz
+rbn,36136,,,0,174.99,Santa Cruz
+rbn,36137,,,0,486.96,Santa Cruz
+rbn,36138,,,0,69.99,Santa Cruz
+rbn,36139,,,0,159.99,Santa Cruz
+rbn,36215,,BO-L,15,224.99,La Paz
+rbn,36525,,,15,144.98,Santa Cruz
+rbn,36140,,,0,159.99,Santa Cruz
+rbn,36541,,BO-L,15,204.99,La Paz
+rbn,36542,,BO-C,15,204.99,Cochabamba
+rbn,36543,,BO-L,15,204.99,La Paz
+rbn,36610,,BO-H,15,664.99,Chuquisaca
+rbn,36611,Quillacollo,BO-C,20,259.99,Cochabamba
+rbn,36536,,,0,139.99,Santa Cruz
+rbn,36612,,,0,341.99,Santa Cruz
+rbn,36613,,,0,59.99,Santa Cruz
+rbn,36673,,BO-O,15,190.0,Oruro
+rbn,36675,,BO-H,15,214.99,Chuquisaca
+rbn,36614,,,0,264.99,Santa Cruz
+rbn,36677,,,0,59.99,Santa Cruz
+rbn,36680,,BO-P,25,244.99,Potosí
+rbn,36685,,BO-L,15,274.99,La Paz
+rbn,36679,,,0,59.99,Santa Cruz
+rbn,36693,,BO-P,25,377.0,Potosí
+rbn,36696,,BO-C,15,290.0,Cochabamba
+rbn,36690,,,0,59.99,Santa Cruz
+rbn,36700,,,0,139.99,Santa Cruz
+rbn,36701,,,0,139.99,Santa Cruz
+rbn,36703,,BO-L,20,235.0,La Paz
+rbn,36704,,BO-L,15,290.0,La Paz
+rbn,36702,,,0,145.0,Santa Cruz
+rbn,36741,,BO-C,15,300.0,Cochabamba
+rbn,36706,,,0,69.99,Santa Cruz
+rbn,36743,,,0,139.99,Santa Cruz
+rbn,36748,,,15,262.0,Santa Cruz
+rbn,36744,,,0,312.99,Santa Cruz
+rbn,36752,,,0,139.99,Santa Cruz
+rbn,36753,,BO-T,45,164.98,Tarija
+rbn,36756,,,0,179.99,Santa Cruz
+rbn,36779,,,0,125.0,Santa Cruz
+rbn,36785,,,0,155.0,Santa Cruz
+rbn,36789,,,0,165.0,Santa Cruz
+rbn,36792,,,0,59.99,Santa Cruz
+rbn,36793,,,0,159.96,Santa Cruz
+rbn,36796,,,0,59.99,Santa Cruz
+rbn,36798,,,0,155.0,Santa Cruz
+rbn,36801,,,0,269.99,Santa Cruz
+rbn,36807,,,0,139.99,Santa Cruz
+rbn,36812,,,0,139.99,Santa Cruz
+rbn,36813,,,0,69.99,Santa Cruz
+rbn,36816,,,0,59.99,Santa Cruz
+rbn,36817,,,0,59.99,Santa Cruz
+rbn,36818,,,0,196.99,Santa Cruz
+rbn,36819,,,0,39.99,Santa Cruz
+rbn,36821,,,0,39.99,Santa Cruz
+rbn,36822,,,0,59.99,Santa Cruz
+rbn,36826,,,0,312.0,Santa Cruz
+rbn,36831,,,0,139.99,Santa Cruz
+rbn,36832,,,0,59.99,Santa Cruz
+rbn,36836,,,0,59.99,Santa Cruz
+rbn,36837,,,0,139.99,Santa Cruz
+rbn,36839,,,0,157.0,Santa Cruz
+rbn,36840,,,0,59.99,Santa Cruz
+rbn,36841,,,0,59.99,Santa Cruz
+rbn,36843,,,0,59.99,Santa Cruz
+rbn,36846,,,0,207.0,Santa Cruz
+rbn,36847,,,0,59.99,Santa Cruz
+rbn,36854,,,0,145.0,Santa Cruz
+rbn,36855,,,0,159.99,Santa Cruz
+rbn,36857,,,0,59.99,Santa Cruz
+rbn,36859,,,0,127.0,Santa Cruz
+rbn,36861,,,0,29.99,Santa Cruz
+rbn,36862,,,0,278.0,Santa Cruz
+rbn,36864,,,0,143.0,Santa Cruz
+rbn,36866,,,0,59.99,Santa Cruz
+rbn,38072,,,0,125.0,Santa Cruz
+rbn,38074,,,0,59.99,Santa Cruz
+rbn,38232,,,0,59.99,Santa Cruz
+rbn,38234,,,0,29.99,Santa Cruz
+rbn,38235,,,0,59.99,Santa Cruz
+rbn,38300,,,0,157.0,Santa Cruz
+rbn,38308,,,0,219.99,Santa Cruz
+rbn,38301,,,0,107.0,Santa Cruz
+rbn,38521,,BO-L,0,99.99,La Paz
+rbn,38311,,,0,129.98,Santa Cruz
+rbn,38532,,,0,99.99,Santa Cruz
+rbn,38533,,,0,59.99,Santa Cruz
+rbn,38536,,,0,89.99,Santa Cruz
+rbn,38538,,BO-L,15,885.95,La Paz
+rbn,38537,,,0,246.99,Santa Cruz
+rbn,38559,,,0,99.99,Santa Cruz
+rbn,38561,,,0,139.99,Santa Cruz
+rbn,38562,,,0,29.99,Santa Cruz
+rbn,38564,,,0,59.99,Santa Cruz
+rbn,38567,,,0,95.0,Santa Cruz
+rbn,38569,,,0,164.99,Santa Cruz
+rbn,38571,,,0,386.99,Santa Cruz
+rbn,38573,,,0,129.98,Santa Cruz
+rbn,38574,,,0,59.99,Santa Cruz
+rbn,38578,,,0,59.99,Santa Cruz
+rbn,38581,,,0,179.99,Santa Cruz
+rbn,38583,,,0,59.99,Santa Cruz
+rbn,38585,,,0,69.99,Santa Cruz
+rbn,38587,,,0,199.99,Santa Cruz
+rbn,38596,,,0,99.99,Santa Cruz
+rbn,38603,,,0,59.99,Santa Cruz
+rbn,38605,,,0,169.98,Santa Cruz
+rbn,38617,,,0,59.99,Santa Cruz
+rbn,38618,,,0,202.0,Santa Cruz
+rbn,38620,,,0,59.99,Santa Cruz
+rbn,38695,,,0,264.98,Santa Cruz
+rbn,38697,,,0,69.99,Santa Cruz
+rbn,38698,,,0,115.0,Santa Cruz
+rbn,38700,,,0,89.99,Santa Cruz
+rbn,38903,,BO-S,0,129.98,Santa Cruz
+rbn,38897,,,0,157.0,Santa Cruz
+rbn,38905,,BO-N,25,271.99,Pando
+rbn,38907,,,0,135.0,Santa Cruz
+rbn,38904,,,0,135.0,Santa Cruz
+rbn,38911,,,0,129.99,Santa Cruz
+rbn,38912,,,0,414.98,Santa Cruz
+rbn,38916,,,0,59.99,Santa Cruz
+rbn,38917,,,0,99.99,Santa Cruz
+rbn,38918,,,0,149.99,Santa Cruz
+rbn,38919,,,0,59.99,Santa Cruz
+rbn,39045,,,0,212.99,Santa Cruz
+rbn,39046,,,0,129.99,Santa Cruz
+rbn,39050,,,0,70.0,Santa Cruz
+rbn,39061,,,0,332.0,Santa Cruz
+rbn,39068,Trinidad,BO-B,15,214.97,Beni
+rbn,39069,,,0,99.99,Santa Cruz
+rbn,39051,,,0,59.99,Santa Cruz
+rbn,39070,,,0,139.99,Santa Cruz
+rbn,39074,Trinidad,BO-B,15,160.0,Beni
+rbn,39071,,,0,240.0,Santa Cruz
+rbn,39076,,,0,30.0,Santa Cruz
+rbn,39077,,,0,59.99,Santa Cruz
+rbn,39137,,,0,69.99,Santa Cruz
+rbn,39079,,,0,149.99,Santa Cruz
+rbn,39139,,,0,149.99,Santa Cruz
+rbn,39142,,,0,30.0,Santa Cruz
+rbn,39143,,,0,20.0,Santa Cruz
+rbn,39172,,,0,5.0,Santa Cruz
+rbn,39173,,,0,15.0,Santa Cruz
+rbn,39246,,,0,147.0,Santa Cruz
+rbn,39174,,,0,69.99,Santa Cruz
+rbn,39247,,,0,145.0,Santa Cruz
+rbn,39249,,,0,119.98,Santa Cruz
+rbn,39250,,,0,50.0,Santa Cruz
+rbn,39251,,,0,59.99,Santa Cruz
+rbn,39253,,,0,667.57,Santa Cruz
+rbn,39288,,,0,59.99,Santa Cruz
+rbn,39289,,,0,40.0,Santa Cruz
+rbn,39300,,,0,75.0,Santa Cruz
+rbn,39301,,,0,20.0,Santa Cruz
+rbn,39306,,BO-C,15,162.0,Cochabamba
+rbn,39305,,,0,145.0,Santa Cruz
+rbn,39307,,,0,179.97,Santa Cruz
+rbn,39314,,,0,89.99,Santa Cruz
+rbn,39313,,,0,117.6,Santa Cruz
+rbn,39340,,,15,74.99,Santa Cruz
+rbn,39315,,,0,15.0,Santa Cruz
+rbn,39341,,,0,231.98,Santa Cruz
+rbn,39342,,,0,132.0,Santa Cruz
+rbn,39355,,,0,290.39,Santa Cruz
+rbn,40096,,BO-S,0,111.99,Santa Cruz
+rbn,40122,,,0,179.98,Santa Cruz
+rbn,40125,,,0,39.99,Santa Cruz
+rbn,39938,,,0,59.99,Santa Cruz
+rbn,40126,,,0,132.0,Santa Cruz
+rbn,40130,,,0,29.99,Santa Cruz
+rbn,40131,,,0,116.0,Santa Cruz
+rbn,40133,,,0,59.99,Santa Cruz
+rbn,40134,,,0,127.99,Santa Cruz
+rbn,40139,,,0,345.59,Santa Cruz
+rbn,40143,,,0,116.0,Santa Cruz
+rbn,40145,,,0,135.0,Santa Cruz
+rbn,40886,,,0,137.0,Santa Cruz
+rbn,40889,,,0,137.0,Santa Cruz
+rbn,40888,,,0,149.99,Santa Cruz
+rbn,40897,,,0,125.0,Santa Cruz
+rbn,40891,,,0,59.99,Santa Cruz
+rbn,41629,,,0,139.99,Santa Cruz
+rbn,41234,,,0,129.99,Santa Cruz
+rbn,41630,,,0,309.42,Santa Cruz
+rbn,41635,,,0,59.99,Santa Cruz
+rbn,41637,,,0,139.99,Santa Cruz
+rbn,41653,,,0,69.99,Santa Cruz
+rbn,41875,,BO-S,15,154.98,Santa Cruz
+rbn,41826,,,0,137.0,Santa Cruz
+rbn,42151,,,0,129.99,Santa Cruz
+rbn,42152,,,0,129.99,Santa Cruz
+rbn,42344,,BO-L,20,159.99,La Paz
+rbn,42153,,,0,59.99,Santa Cruz
+rbn,42348,,,0,59.99,Santa Cruz
+rbn,42349,,,0,59.99,Santa Cruz
+rbn,42355,,,0,165.0,Santa Cruz
+rbn,43685,,BO-S,15,158.0,Santa Cruz
+rbn,45124,,,20,1123.96,Santa Cruz
+rbn,45285,,,0,147.0,Santa Cruz
+rbn,45460,,,0,304.99,Santa Cruz
+rbn,45935,,,0,79.99,Santa Cruz
+rbn,45936,,,0,165.0,Santa Cruz
+rbn,45952,,BO-S,0,105.0,Santa Cruz
+rbn,45960,,,15,74.99,Santa Cruz
+rbn,45964,,,15,152.0,Santa Cruz
+rbn,45985,,,0,159.99,Santa Cruz
+rbn,45989,,,0,199.98,Santa Cruz
+rbn,45998,,,0,165.0,Santa Cruz
+rbn,46081,,,0,145.0,Santa Cruz
+rbn,46082,,,0,179.98,Santa Cruz
+rbn,46084,,,0,155.0,Santa Cruz
+rbn,46101,,,0,127.0,Santa Cruz
+rbn,46141,,,0,119.99,Santa Cruz
+rbn,46188,,,0,109.99,Santa Cruz
+rbn,46189,,,0,79.99,Santa Cruz
+rbn,46190,,,0,99.99,Santa Cruz
+rbn,46194,,,0,109.99,Santa Cruz
+rbn,46195,,,0,95.0,Santa Cruz
+rbn,46196,,,0,107.0,Santa Cruz
+rbn,46233,,,0,159.98,Santa Cruz
+rbn,46244,,,0,115.0,Santa Cruz
+rbn,46208,,,0,216.99,Santa Cruz
+rbn,46301,,,0,49.99,Santa Cruz
+rbn,46304,,,0,149.97,Santa Cruz
+rbn,46307,,,0,49.99,Santa Cruz
+rbn,46308,,,0,99.99,Santa Cruz
+rbn,46309,,,0,164.99,Santa Cruz
+rbn,46311,,BO-S,0,129.98,Santa Cruz
+rbn,46316,,BO-S,0,89.99,Santa Cruz
+rbn,46317,,,0,109.99,Santa Cruz
+rbn,46318,,,0,49.99,Santa Cruz
+rbn,46321,,,0,109.99,Santa Cruz
+rbn,46325,,BO-O,20,189.98,Oruro
+rbn,46326,,BO-L,15,64.99,La Paz
+rbn,46329,,BO-L,15,175.0,La Paz
+rbn,46330,,,0,95.0,Santa Cruz
+rbn,46331,,,0,109.99,Santa Cruz
+rbn,46332,,,0,115.0,Santa Cruz
+rbn,46335,,,0,115.0,Santa Cruz
+rbn,46336,,,0,127.0,Santa Cruz
+rbn,46339,,BO-S,0,59.99,Santa Cruz
+rbn,46338,,,0,129.99,Santa Cruz
+rbn,46343,,BO-L,15,64.99,La Paz
+rbn,46344,,BO-S,0,135.0,Santa Cruz
+rbn,46346,,,0,107.0,Santa Cruz
+rbn,46350,,BO-H,15,64.99,Chuquisaca
+rbn,46351,,BO-H,15,114.98,Chuquisaca
+rbn,46352,,BO-C,15,114.98,Cochabamba
+rbn,46349,,,0,49.99,Santa Cruz
+rbn,46363,,,0,49.99,Santa Cruz
+rbn,46369,,,0,99.98,Santa Cruz
+rbn,46373,,BO-S,15,64.99,Santa Cruz
+rbn,46375,,BO-L,15,774.98,La Paz
+rbn,46376,,BO-L,15,164.99,La Paz
+rbn,46380,Sucre,BO-H,15,64.99,Chuquisaca
+rbn,46381,,BO-L,15,144.99,La Paz
+rbn,46382,,BO-S,15,64.99,Santa Cruz
+rbn,46445,,BO-O,20,109.99,Oruro
+rbn,47654,,BO-S,15,104.99,Santa Cruz
+rbn,47655,,BO-C,15,84.99,Cochabamba
+rbn,47773,,BO-P,20,279.98,Potosí
+rbn,47774,,BO-C,20,119.99,Cochabamba
+rbn,48021,trinidad,BO-B,15,114.98,Beni
+rbn,48022,,BO-S,0,139.98,Santa Cruz
+rbn,55508,,BO-S,0,159.99,Santa Cruz
+rbn,56232,,BO-S,15,84.99,Santa Cruz
+rbn,56403,,BO-L,0,269.97,La Paz
+rbn,56562,SUCRE,BO-H,15,154.98,Chuquisaca
+rbn,58104,,BO-S,15,84.99,Santa Cruz
+rbn,58105,Trinidad,BO-B,15,54.99,Beni
+rbn,35359,,BO-P,25,94.99,Potosí
+rbn,35444,,BO-C,15,289.0,Cochabamba
+rbn,36131,,BO-C,0,142.0,Cochabamba
+rbn,39073,,BO-L,15,169.99,La Paz
+rbn,46356,,BO-C,15,249.99,Cochabamba
+rbn,46370,,BO-C,15,74.99,Cochabamba
+rbn,46432,TUPIZA,BO-P,35,184.97,Potosí
+rbn,32602,,B,15,180.0,Beni
+rbn,33652,,BO-C,15,84.99,Cochabamba
+rbn,33677,,BO-L,15,309.99,La Paz
+rbn,34932,,BO-C,15,239.99,Cochabamba
+rbn,34970,,,0,286.98,Santa Cruz
+rbn,35094,,BO-S,25,144.98,Santa Cruz
+rbn,35125,,BO-C,15,174.99,Cochabamba
+rbn,35126,,BO-S,15,139.95,Santa Cruz
+rbn,35127,,,0,69.99,Santa Cruz
+rbn,35132,,BO-C,15,480.0,Cochabamba
+rbn,35133,,BO-L,15,234.98,La Paz
+rbn,35294,,BO-H,15,354.97,Chuquisaca
+rbn,35295,,BO-L,15,294.98,La Paz
+rbn,35297,,BO-S,0,139.99,Santa Cruz
+rbn,35310,,BO-S,0,289.96,Santa Cruz
+rbn,35328,,BO-L,15,142.0,La Paz
+rbn,35329,,BO-L,15,84.99,La Paz
+rbn,35334,,BO-S,0,174.99,Santa Cruz
+rbn,35335,,BO-L,15,279.97,La Paz
+rbn,35336,,BO-O,15,424.99,Oruro
+rbn,35340,,BO-L,15,150.0,La Paz
+rbn,35341,,,0,69.99,Santa Cruz
+rbn,35379,,BO-T,20,94.99,Tarija
+rbn,35403,,BO-L,15,74.99,La Paz
+rbn,35405,,BO-T,15,364.98,Tarija
+rbn,35407,,BO-T,15,170.0,Tarija
+rbn,35411,,BO-T,15,74.99,Tarija
+rbn,35412,,,0,179.99,Santa Cruz
+rbn,35415,,BO-L,15,479.97,La Paz
+rbn,35431,,BO-S,0,147.0,Santa Cruz
+rbn,35447,Potosi,,0,214.99,Santa Cruz
+rbn,35443,,,20,79.99,Santa Cruz
+rbn,35936,sucre,BO-H,15,170.0,Chuquisaca
+rbn,36042,,BO-C,15,204.99,Cochabamba
+rbn,36044,Sucre,BO-H,0,147.0,Chuquisaca
+rbn,36050,,BO-H,15,162.0,Chuquisaca
+rbn,36086,,,15,74.99,Santa Cruz
+rbn,36088,,BO-L,15,74.99,La Paz
+rbn,36089,,,15,54.99,Santa Cruz
+rbn,36125,,,15,170.0,Santa Cruz
+rbn,36127,,,0,155.0,Santa Cruz
+rbn,36128,,,0,169.99,Santa Cruz
+rbn,36129,,,0,215.0,Santa Cruz
+rbn,36522,,,0,59.99,Santa Cruz
+rbn,36637,,BO-S,15,264.98,Santa Cruz
+rbn,36642,,BO-S,0,147.0,Santa Cruz
+rbn,36681,,,0,219.99,Santa Cruz
+rbn,36682,,BO-T,15,262.0,Tarija
+rbn,36686,,BO-B,15,194.99,Beni
+rbn,36688,,BO-S,15,264.98,Santa Cruz
+rbn,36691,,BO-S,0,289.99,Santa Cruz
+rbn,36697,,BO-S,0,569.97,Santa Cruz
+rbn,36699,,,0,59.99,Santa Cruz
+rbn,36740,,BO-S,30,305.0,Santa Cruz
+rbn,36749,,,0,207.0,Santa Cruz
+rbn,36757,,,15,191.99,Santa Cruz
+rbn,36776,,BO-O,20,247.0,Oruro
+rbn,36777,,BO-L,15,290.0,La Paz
+rbn,36780,,BO-L,15,242.0,La Paz
+rbn,36781,,,15,134.98,Santa Cruz
+rbn,36782,,,0,155.0,Santa Cruz
+rbn,36788,,,0,356.98,Santa Cruz
+rbn,36797,,,0,275.0,Santa Cruz
+rbn,36802,,BO-C,15,274.99,Cochabamba
+rbn,36804,,BO-L,15,284.99,La Paz
+rbn,36800,,,0,147.0,Santa Cruz
+rbn,36809,,BO-O,20,79.99,Oruro
+rbn,36815,,,15,134.98,Santa Cruz
+rbn,36824,,BO-C,15,299.99,Cochabamba
+rbn,36823,,,15,154.99,Santa Cruz
+rbn,36852,,BO-H,15,154.99,Chuquisaca
+rbn,38233,,BO-H,15,210.0,Chuquisaca
+rbn,38303,,BO-C,15,314.98,Cochabamba
+rbn,38520,,BO-C,15,104.99,Cochabamba
+rbn,38545,,BO-H,15,369.98,Chuquisaca
+rbn,38549,,BO-H,15,152.0,Chuquisaca
+rbn,38556,,BO-L,20,119.99,La Paz
+rbn,38560,,BO-C,15,219.98,Cochabamba
+rbn,38563,,BO-P,25,184.98,Potosí
+rbn,38565,,BO-C,15,479.99,Cochabamba
+rbn,38580,,BO-L,15,332.0,La Paz
+rbn,38582,,BO-C,15,214.99,Cochabamba
+rbn,38586,,BO-L,15,231.99,La Paz
+rbn,38592,,BO-L,15,205.0,La Paz
+rbn,38593,,BO-L,15,279.99,La Paz
+rbn,38595,,BO-H,0,169.99,Chuquisaca
+rbn,38598,,BO-L,15,274.98,La Paz
+rbn,38600,,BO-L,15,144.99,La Paz
+rbn,38604,,BO-L,15,209.99,La Paz
+rbn,38606,,BO-C,0,941.96,Cochabamba
+rbn,38607,,BO-H,15,114.99,Chuquisaca
+rbn,38612,,BO-H,15,309.99,Chuquisaca
+rbn,38614,,BO-H,15,110.0,Chuquisaca
+rbn,38615,,BO-S,0,194.98,Santa Cruz
+rbn,38898,,BO-B,15,399.98,Beni
+rbn,38908,,BO-C,15,260.0,Cochabamba
+rbn,38910,,BO-H,15,331.99,Chuquisaca
+rbn,39049,,,15,144.98,Santa Cruz
+rbn,39052,,BO-L,20,139.99,La Paz
+rbn,39053,,BO-T,15,294.97,Tarija
+rbn,39055,,,15,574.92,Santa Cruz
+rbn,39056,,BO-L,15,74.99,La Paz
+rbn,39058,,BO-L,15,154.98,La Paz
+rbn,39060,,BO-C,15,227.99,Cochabamba
+rbn,39062,,BO-C,15,160.0,Cochabamba
+rbn,39066,,BO-O,20,79.99,Oruro
+rbn,39134,Trinidad,BO-B,15,182.0,Beni
+rbn,39292,,BO-L,15,313.59,La Paz
+rbn,39303,,BO-O,20,159.98,Oruro
+rbn,39304,,BO-C,15,69.99,Cochabamba
+rbn,39309,,BO-C,15,202.99,Cochabamba
+rbn,39312,,BO-L,15,154.98,La Paz
+rbn,39354,,BO-C,15,190.99,Cochabamba
+rbn,40124,,BO-H,15,150.0,Chuquisaca
+rbn,40129,,BO-T,15,104.99,Tarija
+rbn,40136,,BO-L,15,142.99,La Paz
+rbn,40137,,,0,89.99,Santa Cruz
+rbn,40141,Villamontes,BO-T,35,104.99,Tarija
+rbn,40144,,,0,114.4,Santa Cruz
+rbn,40884,,,25,304.98,Santa Cruz
+rbn,40892,,,0,224.99,Santa Cruz
+rbn,40894,,BO-L,15,194.97,La Paz
+rbn,40947,,,15,227.99,Santa Cruz
+rbn,41628,,BO-H,15,301.0,Chuquisaca
+rbn,41633,,BO-S,0,50.0,Santa Cruz
+rbn,42150,,BO-C,0,157.0,Cochabamba
+rbn,42345,Sucre,BO-H,15,214.98,Chuquisaca
+rbn,42350,,BO-O,20,503.99,Oruro
+rbn,42365,,,15,74.99,Santa Cruz
+rbn,42863,,BO-L,0,566.98,La Paz
+rbn,43777,,BO-B,15,74.99,Beni
+rbn,44439,,BO-C,15,674.96,Cochabamba
+rbn,44481,,BO-S,15,828.98,Santa Cruz
+rbn,44483,,BO-N,25,321.99,Pando
+rbn,45108,Trinidad,BO-B,15,182.0,Beni
+rbn,45441,,BO-L,15,174.98,La Paz
+rbn,45457,,,15,144.98,Santa Cruz
+rbn,45459,,,15,301.99,Santa Cruz
+rbn,45461,Cobija,BO-N,25,84.99,Pando
+rbn,45462,,BO-L,15,134.98,La Paz
+rbn,45650,,,0,139.99,Santa Cruz
+rbn,45652,,,20,179.99,Santa Cruz
+rbn,45654,,BO-L,15,182.0,La Paz
+rbn,45656,,BO-L,15,144.99,La Paz
+rbn,45693,,,0,139.99,Santa Cruz
+rbn,45773,,BO-S,25,114.99,Santa Cruz
+rbn,45780,,BO-S,0,167.0,Santa Cruz
+rbn,45782,,BO-C,15,281.99,Cochabamba
+rbn,45789,,BO-S,0,159.98,Santa Cruz
+rbn,45806,,BO-H,15,144.99,Chuquisaca
+rbn,45810,,BO-L,15,152.0,La Paz
+rbn,45811,,BO-L,15,74.99,La Paz
+rbn,45858,,,15,160.0,Santa Cruz
+rbn,45859,,BO-C,15,94.99,Cochabamba
+rbn,45860,,BO-T,15,174.99,Tarija
+rbn,45894,,BO-L,15,99.99,La Paz
+rbn,45934,,BO-L,15,134.98,La Paz
+rbn,45937,,,0,129.98,Santa Cruz
+rbn,45946,,BO-S,20,159.99,Santa Cruz
+rbn,45947,,BO-S,25,164.99,Santa Cruz
+rbn,45950,,,15,74.99,Santa Cruz
+rbn,45951,,BO-C,15,129.98,Cochabamba
+rbn,45954,,BO-H,15,174.99,Chuquisaca
+rbn,45962,,BO-L,15,174.99,La Paz
+rbn,45965,,BO-O,20,109.99,Oruro
+rbn,45966,,BO-L,15,180.0,La Paz
+rbn,45968,,BO-C,15,324.97,Cochabamba
+rbn,45969,,BO-C,15,185.0,Cochabamba
+rbn,45977,,,0,89.99,Santa Cruz
+rbn,45980,,BO-C,15,152.0,Cochabamba
+rbn,45986,,,0,165.0,Santa Cruz
+rbn,45996,,BO-L,15,84.99,La Paz
+rbn,46191,,BO-S,15,180.0,Santa Cruz
+rbn,46197,,BO-B,15,264.98,Beni
+rbn,46198,,BO-C,0,391.98,Cochabamba
+rbn,46199,,BO-P,25,129.99,Potosí
+rbn,46204,,BO-L,15,174.99,La Paz
+rbn,46205,Trinidad,BO-B,15,209.99,Beni
+rbn,46207,,,0,59.99,Santa Cruz
+rbn,46223,,BO-T,0,384.99,Tarija
+rbn,46303,,BO-H,15,179.99,Chuquisaca
+rbn,46313,,BO-O,20,119.99,Oruro
+rbn,46315,,BO-C,15,114.99,Cochabamba
+rbn,46347,,BO-S,15,144.98,Santa Cruz
+rbn,46348,,BO-S,15,64.99,Santa Cruz
+rbn,46353,,BO-S,15,114.98,Santa Cruz
+rbn,46354,,BO-C,10,159.97,Cochabamba
+rbn,46355,,BO-H,15,74.99,Chuquisaca
+rbn,46357,,BO-C,15,184.97,Cochabamba
+rbn,46359,,BO-O,20,89.99,Oruro
+rbn,46360,,BO-C,20,119.98,Cochabamba
+rbn,46364,,BO-S,0,439.98,Santa Cruz
+rbn,46365,,BO-O,20,169.97,Oruro
+rbn,46367,,BO-L,15,64.99,La Paz
+rbn,47772,,BO-S,25,410.0,Santa Cruz
+rbn,58451,La Paz,,15,174.99,La Paz
+rbn,58453,SUCRE,,15,194.99,Santa Cruz
+victus,8368,,BO-S,0,169.98,Santa Cruz
+victus,8369,,BO-S,0,59.99,Santa Cruz
+victus,8372,,BO-S,0,119.98,Santa Cruz
+victus,8409,,,0,129.99,Santa Cruz
+victus,9081,,BO-S,0,129.99,Santa Cruz
+victus,9122,,BO-S,0,135.0,Santa Cruz
+victus,9135,,BO-S,0,299.95,Santa Cruz
+victus,9281,,BO-S,0,99.99,Santa Cruz
+victus,9284,,BO-S,0,119.99,Santa Cruz
+victus,9285,,BO-C,0,509.98,Cochabamba
+victus,9286,,BO-S,0,125.0,Santa Cruz
+victus,9287,,BO-S,0,135.0,Santa Cruz
+victus,9288,,BO-C,0,169.98,Cochabamba
+victus,9292,,BO-S,0,59.99,Santa Cruz
+victus,9294,,BO-S,0,214.0,Santa Cruz
+victus,9295,,BO-S,0,59.99,Santa Cruz
+victus,9297,,BO-C,20,149.99,Cochabamba
+victus,9639,,BO-S,0,59.99,Santa Cruz
+victus,9640,,BO-S,0,179.98,Santa Cruz
+victus,9705,,,0,186.99,Santa Cruz
+victus,9706,,BO-L,0,119.98,La Paz
+victus,9808,,BO-S,0,137.0,Santa Cruz
+victus,9809,,BO-C,0,59.99,Cochabamba
+victus,9810,,BO-L,0,319.96,La Paz
+victus,9812,,BO-C,0,59.99,Cochabamba
+victus,9813,,BO-L,0,59.99,La Paz
+victus,9814,,BO-L,0,59.99,La Paz
+victus,9815,,BO-L,0,319.99,La Paz
+victus,9819,,BO-S,0,129.99,Santa Cruz
+victus,9826,,BO-L,0,137.0,La Paz
+victus,9836,,BO-C,0,59.99,Cochabamba
+victus,9844,,BO-S,0,179.98,Santa Cruz
+victus,9847,,,0,119.98,Santa Cruz
+victus,9855,,BO-S,0,59.99,Santa Cruz
+victus,9856,,,0,119.98,Santa Cruz
+victus,9857,,,0,119.98,Santa Cruz
+victus,9862,,BO-L,0,119.98,La Paz
+victus,9864,,BO-L,0,99.99,La Paz
+victus,9866,,BO-C,0,59.99,Cochabamba
+victus,9867,,BO-C,0,119.99,Cochabamba
+victus,9869,,BO-S,0,59.99,Santa Cruz
+victus,9870,,,0,179.97,Santa Cruz
+victus,9877,,BO-L,0,179.97,La Paz
+victus,9878,,BO-L,0,279.97,La Paz
+victus,9880,,BO-S,0,59.99,Santa Cruz
+victus,9881,,BO-L,0,59.99,La Paz
+victus,9889,,BO-L,0,119.98,La Paz
+victus,9891,,BO-C,0,59.99,Cochabamba
+victus,9892,,BO-C,0,259.97,Cochabamba
+victus,9893,,BO-H,0,184.99,Chuquisaca
+victus,9894,,BO-S,0,191.99,Santa Cruz
+victus,9895,,BO-S,0,59.99,Santa Cruz
+victus,9896,,BO-S,0,59.99,Santa Cruz
+victus,9897,,BO-L,0,129.99,La Paz
+victus,9898,,BO-L,0,137.0,La Paz
+victus,9899,,,0,99.99,Santa Cruz
+victus,9902,,,0,199.98,Santa Cruz
+victus,9904,,BO-L,0,59.99,La Paz
+victus,9905,,BO-L,0,59.99,La Paz
+victus,9906,,BO-S,0,186.99,Santa Cruz
+victus,9907,,BO-C,0,260.0,Cochabamba
+victus,9909,,BO-C,0,196.99,Cochabamba
+victus,9911,,BO-C,0,59.99,Cochabamba
+victus,9912,,BO-C,0,59.99,Cochabamba
+victus,9913,,,0,137.0,Santa Cruz
+victus,9914,,,0,172.99,Santa Cruz
+victus,9915,,,0,129.99,Santa Cruz
+victus,9916,,BO-L,0,256.98,La Paz
+victus,9917,,,0,159.98,Santa Cruz
+victus,9918,,,0,113.0,Santa Cruz
+victus,9919,,BO-S,0,309.96,Santa Cruz
+victus,9920,,,0,381.99,Santa Cruz
+victus,9930,,BO-L,0,59.99,La Paz
+victus,10415,,BO-S,0,240.0,Santa Cruz
+victus,10501,,BO-S,0,349.97,Santa Cruz
+victus,10502,,,0,59.99,Santa Cruz
+victus,10503,,BO-T,0,59.99,Tarija
+victus,10529,,,0,149.99,Santa Cruz
+victus,10567,,,0,59.99,Santa Cruz
+victus,10570,,BO-C,0,230.0,Cochabamba
+victus,10574,,BO-L,0,209.98,La Paz
+victus,10575,,BO-C,0,69.99,Cochabamba
+victus,10576,,BO-H,0,748.5,Chuquisaca
+victus,10577,,,0,149.99,Santa Cruz
+victus,10578,,BO-C,0,69.99,Cochabamba
+victus,10584,,,0,69.99,Santa Cruz
+victus,10587,,BO-C,0,219.98,Cochabamba
+victus,10600,,BO-L,0,381.99,La Paz
+victus,10608,,BO-L,15,84.99,La Paz
+victus,10609,,,0,299.98,Santa Cruz
+victus,10622,,BO-L,20,239.98,La Paz
+victus,10623,,BO-B,15,224.98,Beni
+victus,10625,,BO-C,15,144.98,Cochabamba
+victus,10627,,,15,314.98,Santa Cruz
+victus,10628,,BO-L,15,74.99,La Paz
+victus,10629,,BO-H,15,314.98,Chuquisaca
+victus,10636,,BO-L,15,204.98,La Paz
+victus,10638,,,15,154.98,Santa Cruz
+victus,10643,,BO-C,15,154.99,Cochabamba
+victus,10644,,,15,204.98,Santa Cruz
+victus,10645,,,15,162.0,Santa Cruz
+victus,10651,,,0,2197.9,Santa Cruz
+victus,10652,,BO-L,15,74.99,La Paz
+victus,10657,,BO-H,15,164.99,Chuquisaca
+victus,10661,,,15,454.96,Santa Cruz
+victus,10663,,,15,164.99,Santa Cruz
+victus,10665,,BO-S,15,454.96,Santa Cruz
+victus,10666,,BO-S,15,84.99,Santa Cruz
+victus,10667,,BO-T,15,84.99,Tarija
+victus,10668,,BO-T,15,134.98,Tarija
+victus,10669,,BO-L,15,204.98,La Paz
+victus,10673,,BO-B,0,69.99,Beni
+victus,10675,,BO-S,15,84.99,Santa Cruz
+victus,10678,sucre,BO-H,15,164.99,Chuquisaca
+victus,10680,,BO-S,15,314.98,Santa Cruz
+victus,10683,,BO-L,0,69.99,La Paz
+victus,10688,,BO-S,15,74.99,Santa Cruz
+victus,10689,Monteagudo,,36,405.97,Santa Cruz
+victus,10691,Trinidad,BO-B,15,134.98,Beni
+victus,10693,,BO-S,15,144.99,Santa Cruz
+victus,10697,,BO-S,0,401.99,Santa Cruz
+victus,10699,,BO-C,15,279.99,Cochabamba
+victus,10702,,BO-L,15,84.99,La Paz
+victus,10705,Trinidad,BO-B,15,154.98,Beni
+victus,10706,,BO-S,15,194.97,Santa Cruz
+victus,10718,,,0,149.99,Santa Cruz
+victus,10721,,BO-T,15,584.95,Tarija
+victus,10727,,,15,74.99,Santa Cruz
+victus,10730,,,15,209.99,Santa Cruz
+victus,10768,,,15,144.98,Santa Cruz
+victus,10770,,BO-H,15,211.99,Chuquisaca
+victus,10771,,BO-H,15,379.97,Chuquisaca
+victus,11090,,,15,194.98,Santa Cruz
+victus,11588,,BO-H,15,74.99,Chuquisaca
+victus,11589,,BO-H,15,214.97,Chuquisaca
+victus,11592,,BO-H,15,154.98,Chuquisaca
+victus,11594,,BO-H,15,74.99,Chuquisaca
+victus,11596,,BO-S,20,351.99,Santa Cruz
+victus,11598,,BO-C,20,219.98,Cochabamba
+victus,11599,,BO-S,15,84.99,Santa Cruz
+victus,11601,,BO-P,25,94.99,Potosí
+victus,11607,,BO-S,0,115.0,Santa Cruz
+victus,11616,,BO-S,0,69.99,Santa Cruz
+victus,11619,,BO-S,15,189.99,Santa Cruz
+victus,11626,,BO-S,15,84.99,Santa Cruz
+victus,11633,,BO-C,15,294.97,Cochabamba
+victus,11639,,,15,74.99,Santa Cruz
+victus,11651,,BO-L,15,710.99,La Paz
+victus,11659,,BO-S,15,224.98,Santa Cruz
+victus,11660,,BO-H,15,74.99,Chuquisaca
+victus,11665,,BO-H,15,84.99,Chuquisaca
+victus,11666,,BO-B,15,334.95,Beni
+victus,11669,,BO-B,15,154.98,Beni
+victus,11671,,BO-L,15,334.95,La Paz
+victus,11674,,,15,84.99,Santa Cruz
+victus,11679,,Villamontes,35,154.98,Santa Cruz
+victus,11680,,BO-C,15,84.99,Cochabamba
+victus,11681,,BO-P,25,324.98,Potosí
+victus,11683,,BO-S,15,281.99,Santa Cruz
+victus,11689,,,15,234.98,Santa Cruz
+victus,11690,,,15,84.99,Santa Cruz
+victus,11691,,BO-L,15,74.99,La Paz
+victus,11692,,BO-L,15,194.99,La Paz
+victus,11695,,BO-L,15,74.99,La Paz
+victus,11696,Villamontes,BO-T,35,164.98,Tarija
+victus,11698,,BO-C,15,245.0,Cochabamba
+victus,12016,,,15,74.99,Santa Cruz
+victus,12017,,,0,59.99,Santa Cruz
+victus,12020,,BO-L,15,259.99,La Paz
+victus,12024,,BO-L,15,200.0,La Paz
+victus,12026,,BO-L,15,134.98,La Paz
+victus,12317,,,15,84.99,Santa Cruz
+victus,12320,,BO-P,0,209.97,Potosí
+victus,12414,,BO-C,15,144.99,Cochabamba
+victus,12416,,BO-T,15,314.98,Tarija
+victus,12425,,BO-L,20,419.98,La Paz
+victus,12432,,BO-H,15,624.94,Chuquisaca
+victus,13398,,,0,245.0,Santa Cruz
+victus,14578,,BO-S,0,394.98,Santa Cruz
+victus,15710,,BO-S,0,139.98,Santa Cruz
+victus,15725,,,15,254.98,Santa Cruz
+victus,15721,,,0,244.99,Santa Cruz
+victus,15958,,,0,219.99,Santa Cruz
+victus,15828,,,0,69.99,Santa Cruz
+victus,15981,,,0,139.99,Santa Cruz
+victus,15985,,,15,150.0,Santa Cruz
+victus,16003,,,0,69.99,Santa Cruz
+victus,16077,,,0,149.99,Santa Cruz
+victus,16078,,,0,39.99,Santa Cruz
+victus,16772,,BO-S,0,109.98,Santa Cruz
+victus,16010,,,0,59.99,Santa Cruz
+victus,16791,,,25,241.99,Santa Cruz
+victus,17167,,BO-C,15,154.98,Cochabamba
+victus,17168,,BO-T,0,589.96,Tarija
+victus,17178,,BO-S,15,130.0,Santa Cruz
+victus,17179,,BO-O,20,2831.91,Oruro
+victus,17196,,,0,109.98,Santa Cruz
+victus,17199,,,15,84.99,Santa Cruz
+victus,17201,,,15,194.99,Santa Cruz
+victus,17202,Shinahota,BO-C,45,324.98,Cochabamba
+victus,17217,,,0,729.96,Santa Cruz
+victus,17218,,,0,169.98,Santa Cruz
+victus,17221,,,15,74.99,Santa Cruz
+victus,17189,,,0,139.99,Santa Cruz
+victus,17227,,,0,91.0,Santa Cruz
+victus,17228,,,25,154.98,Santa Cruz
+victus,17232,,,0,69.99,Santa Cruz
+victus,17224,,,0,149.99,Santa Cruz
+victus,17239,,,0,69.99,Santa Cruz
+victus,17366,,,0,189.98,Santa Cruz
+victus,17368,,BO-S,0,159.99,Santa Cruz
+victus,17983,,BO-L,15,194.98,La Paz
+victus,18031,,BO-S,15,204.98,Santa Cruz
+victus,18047,,BO-S,15,459.98,Santa Cruz
+victus,18050,,,15,204.98,Santa Cruz
+victus,18105,,,0,959.94,Santa Cruz
+victus,18113,,,0,125.0,Santa Cruz
+victus,17374,,,0,149.99,Santa Cruz
+victus,18115,,,0,69.99,Santa Cruz
+victus,18187,,,0,112.5,Santa Cruz
+victus,18190,,,15,419.98,Santa Cruz
+victus,18189,,,0,149.99,Santa Cruz
+victus,18204,,,0,149.99,Santa Cruz
+victus,18206,,,0,129.99,Santa Cruz
+victus,18207,,BO-S,15,144.99,Santa Cruz
+victus,18209,,,0,79.98,Santa Cruz
+victus,18195,,,0,314.96,Santa Cruz
+victus,18211,,,0,219.98,Santa Cruz
+victus,18214,,,0,139.99,Santa Cruz
+victus,18219,,BO-S,15,224.97,Santa Cruz
+victus,18254,,,0,139.98,Santa Cruz
+victus,18317,,BO-C,15,854.93,Cochabamba
+victus,18322,,BO-S,15,294.98,Santa Cruz
+victus,18323,,BO-S,15,74.99,Santa Cruz
+victus,19104,,BO-S,15,74.99,Santa Cruz
+victus,19109,,,15,84.99,Santa Cruz
+victus,19110,Santa Cruz,,0,199.99,Santa Cruz
+victus,19111,,,15,174.99,Santa Cruz
+victus,19112,Santa Cruz,,0,167.0,Santa Cruz
+victus,19114,,BO-S,0,70.0,Santa Cruz
+victus,19118,Santa Cruz,,0,159.99,Santa Cruz
+victus,18111,,BO-O,20,456.97,Oruro
+victus,18120,,BO-T,15,324.98,Tarija
+victus,9868,,BO-C,0,119.99,Cochabamba
+victus,10564,,BO-H,0,279.97,Chuquisaca
+victus,10569,Avenida capitán arrien 317,Entre 1er y 2do anillo,0,739.94,Santa Cruz
+victus,10601,,BO-T,0,69.99,Tarija
+victus,10626,,,20,169.99,Santa Cruz
+victus,10660,,BO-C,15,224.98,Cochabamba
+victus,10662,,,15,224.98,Santa Cruz
+victus,10684,,BO-S,15,134.98,Santa Cruz
+victus,10690,,BO-C,15,164.99,Cochabamba
+victus,10701,,BO-L,15,84.99,La Paz
+victus,10704,,BO-L,15,224.98,La Paz
+victus,10708,,,20,199.98,Santa Cruz
+victus,10709,,BO-T,15,224.98,Tarija
+victus,10710,,BO-C,15,74.99,Cochabamba
+victus,10712,,,0,149.99,Santa Cruz
+victus,10715,,,15,84.99,Santa Cruz
+victus,10716,,BO-L,15,144.98,La Paz
+victus,10719,,,15,162.0,Santa Cruz
+victus,10720,,,15,74.99,Santa Cruz
+victus,10722,,BO-L,15,351.98,La Paz
+victus,10723,,BO-L,15,319.98,La Paz
+victus,10724,,BO-L,15,194.98,La Paz
+victus,10725,,BO-H,15,224.98,Chuquisaca
+victus,10728,,BO-P,25,331.98,Potosí
+victus,10729,,BO-C,15,224.98,Cochabamba
+victus,10767,,BO-T,15,74.99,Tarija
+victus,10769,,BO-L,15,74.99,La Paz
+victus,10774,,BO-L,15,74.99,La Paz
+victus,10812,,BO-L,15,74.99,La Paz
+victus,11091,,BO-H,15,199.99,Chuquisaca
+victus,11092,,BO-H,15,254.96,Chuquisaca
+victus,11093,,BO-H,15,464.98,Chuquisaca
+victus,11280,,BO-H,15,144.99,Chuquisaca
+victus,11430,,,15,358.99,Santa Cruz
+victus,11597,,BO-S,15,130.0,Santa Cruz
+victus,11600,,BO-L,15,154.98,La Paz
+victus,11602,,BO-S,0,204.99,Santa Cruz
+victus,11606,,,15,84.99,Santa Cruz
+victus,11608,,BO-T,15,221.99,Tarija
+victus,11611,Quillacollo,BO-C,15,164.99,Cochabamba
+victus,11612,,BO-T,15,134.98,Tarija
+victus,11615,,BO-L,15,162.0,La Paz
+victus,11617,,BO-S,15,84.99,Santa Cruz
+victus,11618,,BO-L,15,84.99,La Paz
+victus,11623,,BO-L,15,142.0,La Paz
+victus,11624,,BO-S,15,426.98,Santa Cruz
+victus,11627,,BO-C,15,432.0,Cochabamba
+victus,11628,,BO-L,15,264.97,La Paz
+victus,11629,,BO-L,15,134.98,La Paz
+victus,11630,,BO-L,15,84.99,La Paz
+victus,11632,,BO-H,15,294.97,Chuquisaca
+victus,11635,,BO-L,15,84.99,La Paz
+victus,11636,,BO-B,15,154.98,Beni
+victus,11637,,BO-C,20,155.0,Cochabamba
+victus,11652,,,15,164.99,Santa Cruz
+victus,11667,,,0,119.98,Santa Cruz
+victus,11675,,,0,189.97,Santa Cruz
+victus,11694,,,0,59.99,Santa Cruz
+victus,12013,,BO-S,0,149.99,Santa Cruz
+victus,12019,,BO-C,15,214.98,Cochabamba
+victus,12025,,,15,74.99,Santa Cruz
+victus,12418,,,0,189.98,Santa Cruz
+victus,12419,,BO-L,15,285.0,La Paz
+victus,12424,,,15,200.0,Santa Cruz
+victus,12426,,BO-L,15,254.99,La Paz
+victus,12427,,BO-P,0,679.96,Potosí
+victus,12428,,BO-C,45,501.98,Cochabamba
+victus,12433,,BO-C,15,194.98,Cochabamba
+victus,13397,,,0,207.0,Santa Cruz
+victus,14869,,BO-C,15,344.97,Cochabamba
+victus,14870,,BO-H,15,254.99,Chuquisaca
+victus,15305,,BO-C,15,152.0,Cochabamba
+victus,15307,,BO-T,15,311.99,Tarija
+victus,15335,,BO-L,15,204.97,La Paz
+victus,15454,,,0,145.0,Santa Cruz
+victus,15456,,BO-L,15,74.99,La Paz
+victus,15457,,,0,724.97,Santa Cruz
+victus,15650,,BO-P,25,294.98,Potosí
+victus,15651,,,0,279.99,Santa Cruz
+victus,15653,,,0,69.99,Santa Cruz
+victus,15655,,BO-L,15,294.98,La Paz
+victus,15656,,BO-H,15,84.99,Chuquisaca
+victus,15657,,BO-L,15,529.99,La Paz
+victus,15658,,BO-C,20,285.0,Cochabamba
+victus,15659,,BO-S,0,129.99,Santa Cruz
+victus,15661,,BO-L,15,379.98,La Paz
+victus,15662,,BO-L,15,162.0,La Paz
+victus,15663,,,15,260.0,Santa Cruz
+victus,15700,,BO-C,15,274.99,Cochabamba
+victus,15701,,BO-H,15,84.99,Chuquisaca
+victus,15703,,,0,279.98,Santa Cruz
+victus,15711,,BO-C,15,264.99,Cochabamba
+victus,15712,,BO-C,15,214.98,Cochabamba
+victus,15717,,BO-L,15,214.99,La Paz
+victus,15718,,BO-H,15,84.99,Chuquisaca
+victus,15720,,BO-L,15,374.98,La Paz
+victus,11434,,,0,69.99,Santa Cruz
+victus,15724,,BO-L,15,154.99,La Paz
+victus,15726,,BO-T,15,371.98,Tarija
+victus,15727,,BO-L,15,414.96,La Paz
+victus,15812,,BO-T,15,324.98,Tarija
+victus,15826,,,0,244.98,Santa Cruz
+victus,15827,,,20,165.0,Santa Cruz
+victus,15811,,BO-L,0,149.99,La Paz
+victus,15830,,BO-C,15,259.99,Cochabamba
+victus,15951,,BO-S,0,69.99,Santa Cruz
+victus,15953,,BO-L,15,134.98,La Paz
+victus,15956,,BO-L,15,84.99,La Paz
+victus,15959,,BO-P,25,200.0,Potosí
+victus,15963,,,15,264.98,Santa Cruz
+victus,15962,,,0,59.99,Santa Cruz
+victus,15967,,BO-B,15,489.96,Beni
+victus,15975,,,15,74.99,Santa Cruz
+victus,15977,,BO-L,15,444.98,La Paz
+victus,15965,,,0,159.96,Santa Cruz
+victus,15983,,BO-C,15,264.99,Cochabamba
+victus,15984,,BO-C,15,142.0,Cochabamba
+victus,15986,,BO-T,15,299.99,Tarija
+victus,15989,,BO-L,15,609.98,La Paz
+victus,15990,,BO-L,15,599.98,La Paz
+victus,15991,,BO-L,15,174.97,La Paz
+victus,15979,,,0,59.99,Santa Cruz
+victus,15997,,BO-L,15,84.99,La Paz
+victus,15998,,BO-T,15,304.97,Tarija
+victus,16001,,BO-C,15,351.99,Cochabamba
+victus,16005,,BO-L,15,224.98,La Paz
+victus,16007,,BO-P,25,210.0,Potosí
+victus,16008,,BO-P,25,214.99,Potosí
+victus,15994,,,0,69.99,Santa Cruz
+victus,16070,,BO-C,15,259.98,Cochabamba
+victus,16071,,,0,145.0,Santa Cruz
+victus,16073,,BO-L,15,234.99,La Paz
+victus,16074,,,15,84.99,Santa Cruz
+victus,16079,,,0,139.99,Santa Cruz
+victus,16212,,BO-L,15,164.99,La Paz
+victus,16771,Montero,,30,234.99,Santa Cruz
+victus,16788,,BO-L,20,99.98,La Paz
+victus,16790,,BO-T,15,1729.84,Tarija
+victus,16806,,BO-L,15,134.98,La Paz
+victus,16789,,,0,145.0,Santa Cruz
+victus,16807,,,0,135.0,Santa Cruz
+victus,17149,,,0,69.99,Santa Cruz
+victus,17181,,,0,69.99,Santa Cruz
+victus,17192,,Cochabamba,0,109.98,Cochabamba
+victus,17194,,BO-T,15,154.99,Tarija
+victus,17197,,BO-L,15,240.0,La Paz
+victus,17203,,BO-L,15,174.99,La Paz
+victus,17234,,,0,264.99,Santa Cruz
+victus,17333,,,0,69.99,Santa Cruz
+victus,17335,,BO-H,0,166.5,Chuquisaca
+victus,17358,,BO-L,0,157.49,La Paz
+victus,17360,,BO-C,15,264.97,Cochabamba
+victus,17361,,,0,204.99,Santa Cruz
+victus,17240,,,0,59.99,Santa Cruz
+victus,17363,,,0,69.99,Santa Cruz
+victus,17364,,,0,309.98,Santa Cruz
+victus,17371,,,0,537.27,Santa Cruz
+victus,18035,Trinidad,BO-B,15,154.99,Beni
+victus,18040,,BO-L,15,84.99,La Paz
+victus,18042,,BO-C,0,734.96,Cochabamba
+victus,18043,,BO-L,15,293.98,La Paz
+victus,18048,,BO-S,15,154.99,Santa Cruz
+victus,18052,,BO-S,15,114.98,Santa Cruz
+victus,18110,,BO-O,20,259.98,Oruro
+victus,18191,,BO-L,15,404.96,La Paz
+victus,18192,,BO-O,20,129.98,Oruro
+victus,18196,,BO-C,15,84.99,Cochabamba
+victus,18198,,,0,145.0,Santa Cruz
+victus,18200,,BO-L,15,259.99,La Paz
+victus,18205,,,0,289.98,Santa Cruz
+victus,18216,,BO-L,15,94.98,La Paz
+victus,18217,,,0,159.99,Santa Cruz
+victus,18212,,,0,250.0,Santa Cruz
+victus,18297,,BO-C,15,204.98,Cochabamba
+victus,18225,,,0,209.98,Santa Cruz
+victus,18299,,BO-S,20,229.97,Santa Cruz
+victus,18300,Santa Cruz,,0,139.99,Santa Cruz
+victus,18298,,,0,69.99,Santa Cruz
+victus,18304,,BO-C,15,214.99,Cochabamba
+victus,18306,,,25,211.99,Santa Cruz
+victus,18307,,BO-C,15,74.99,Cochabamba
+victus,18309,,BO-H,15,104.98,Chuquisaca
+victus,18314,,BO-S,15,84.99,Santa Cruz
+victus,18318,Vallegrande,BO-S,25,94.99,Santa Cruz
+victus,18319,,BO-S,0,199.98,Santa Cruz
+victus,19119,,BO-S,0,99.98,Santa Cruz
+victus,19120,,BO-S,0,219.98,Santa Cruz
+nebula,10707,,,0,125.0,Santa Cruz
+nebula,10711,,,0,69.99,Santa Cruz
+nebula,10712,,BO-L,0,69.99,La Paz
+nebula,10714,,BO-S,0,204.98,Santa Cruz
+nebula,10716,,BO-L,0,139.98,La Paz
+nebula,10717,,BO-S,0,119.99,Santa Cruz
+nebula,10719,,,0,266.99,Santa Cruz
+nebula,12235,,BO-L,15,84.99,La Paz
+nebula,12244,,BO-L,0,279.98,La Paz
+nebula,12554,,BO-L,0,147.0,La Paz
+nebula,12660,,BO-C,0,199.99,Cochabamba
+nebula,12680,,BO-C,0,299.98,Cochabamba
+nebula,14504,,BO-S,0,149.99,Santa Cruz
+nebula,14505,,BO-S,0,304.99,Santa Cruz
+nebula,14509,,BO-L,0,209.98,La Paz
+nebula,14769,,BO-L,0,135.0,La Paz
+nebula,16496,,,0,139.99,Santa Cruz
+nebula,16670,,BO-S,0,127.0,Santa Cruz
+nebula,18128,,BO-C,0,69.99,Cochabamba
+nebula,18129,,BO-S,0,349.97,Santa Cruz
+nebula,18130,,BO-S,0,239.98,Santa Cruz
+nebula,18132,,BO-S,20,159.99,Santa Cruz
+nebula,18137,,BO-S,0,129.99,Santa Cruz
+nebula,18139,,BO-S,0,259.98,Santa Cruz
+nebula,18140,,BO-C,0,137.0,Cochabamba
+nebula,18144,,BO-S,0,145.0,Santa Cruz
+nebula,18145,,BO-S,0,69.99,Santa Cruz
+nebula,18146,,BO-S,15,54.99,Santa Cruz
+nebula,18149,,BO-S,0,127.0,Santa Cruz
+nebula,18151,Montero,,25,301.99,Santa Cruz
+nebula,18152,,BO-S,0,135.0,Santa Cruz
+nebula,18420,,BO-C,0,139.98,Cochabamba
+nebula,19231,,,0,119.99,Santa Cruz
+nebula,19232,,,20,59.99,Santa Cruz
+nebula,19233,,BO-T,15,54.99,Tarija
+nebula,19234,,BO-S,0,209.97,Santa Cruz
+nebula,19235,,BO-S,0,139.99,Santa Cruz
+nebula,19236,,BO-S,0,139.99,Santa Cruz
+nebula,19237,,,0,1500.0,Santa Cruz
+nebula,19238,,BO-S,0,209.98,Santa Cruz
+nebula,19245,,BO-S,0,279.98,Santa Cruz
+nebula,19246,,,0,449.97,Santa Cruz
+nebula,19248,,,0,139.98,Santa Cruz
+nebula,19250,,BO-S,0,129.99,Santa Cruz
+nebula,19251,,BO-S,0,149.99,Santa Cruz
+nebula,19254,,,0,139.99,Santa Cruz
+nebula,19255,,,15,84.99,Santa Cruz
+nebula,19256,,,0,329.96,Santa Cruz
+nebula,19262,,BO-S,0,69.99,Santa Cruz
+nebula,19263,,,15,84.99,Santa Cruz
+nebula,19270,,,0,389.97,Santa Cruz
+nebula,19272,,,0,139.99,Santa Cruz
+nebula,19275,,,0,339.98,Santa Cruz
+nebula,19290,,BO-S,0,119.99,Santa Cruz
+nebula,19297,,BO-S,0,129.99,Santa Cruz
+nebula,19660,,BO-S,0,206.99,Santa Cruz
+nebula,20358,,,0,214.99,Santa Cruz
+nebula,20359,,,0,119.99,Santa Cruz
+nebula,20360,,,0,259.98,Santa Cruz
+nebula,20361,,,25,164.99,Santa Cruz
+nebula,20366,,BO-S,0,139.99,Santa Cruz
+nebula,20379,,,0,119.99,Santa Cruz
+nebula,20381,,BO-S,25,144.99,Santa Cruz
+nebula,20671,,BO-S,0,129.99,Santa Cruz
+nebula,20675,,,0,184.99,Santa Cruz
+nebula,20895,,BO-H,15,84.99,Chuquisaca
+nebula,12602,,BO-L,0,219.99,La Paz
+nebula,12659,,BO-S,0,69.99,Santa Cruz
+nebula,14500,,BO-L,0,149.99,La Paz
+nebula,14501,,BO-S,0,149.99,Santa Cruz
+nebula,14502,,BO-S,25,144.99,Santa Cruz
+nebula,14507,,BO-C,0,350.0,Cochabamba
+nebula,14508,,,0,139.99,Santa Cruz
+nebula,14510,,,0,1449.92,Santa Cruz
+nebula,14765,,BO-S,0,434.98,Santa Cruz
+nebula,14766,,BO-S,20,266.99,Santa Cruz
+nebula,14833,,BO-L,0,194.99,La Paz
+nebula,16392,,BO-L,0,135.0,La Paz
+nebula,16495,,BO-L,0,69.99,La Paz
+nebula,16497,,BO-S,0,137.0,Santa Cruz
+nebula,16498,,BO-C,0,147.0,Cochabamba
+nebula,16499,,BO-S,0,244.99,Santa Cruz
+nebula,16500,,BO-L,0,69.98,La Paz
+nebula,16645,,,0,139.99,Santa Cruz
+nebula,16744,,BO-C,0,379.98,Cochabamba
+nebula,18135,,BO-N,0,109.98,Pando
+nebula,18141,,BO-S,0,69.99,Santa Cruz
+nebula,18142,,BO-C,0,259.98,Cochabamba
+nebula,18143,,BO-C,0,169.98,Cochabamba
+nebula,18520,,BO-S,25,431.98,Santa Cruz
+nebula,19073,,BO-S,0,149.99,Santa Cruz
+nebula,19074,,BO-L,0,119.99,La Paz
+nebula,19239,,BO-H,0,129.99,Chuquisaca
+nebula,19247,,BO-S,0,149.99,Santa Cruz
+nebula,19249,,BO-S,0,125.0,Santa Cruz
+nebula,19252,,,0,439.96,Santa Cruz
+nebula,19264,,BO-C,0,349.97,Cochabamba
+nebula,19269,,BO-L,0,129.99,La Paz
+nebula,19271,,BO-L,0,139.99,La Paz
+nebula,19291,,BO-L,20,606.97,La Paz
+nebula,19292,,BO-L,0,209.98,La Paz
+nebula,19296,COBIJA,,25,309.0,Santa Cruz
+nebula,19300,,BO-C,0,274.99,Cochabamba
+nebula,20255,,BO-C,0,165.0,Cochabamba
+nebula,20362,,,15,294.98,Santa Cruz
+nebula,20365,,BO-S,15,84.99,Santa Cruz
+nebula,20369,,S,0,129.99,Santa Cruz
+nebula,20373,,BO-L,0,119.99,La Paz
+nebula,20374,,BO-N,25,254.98,Pando
+nebula,20376,,BO-S,0,256.99,Santa Cruz
+nebula,20942,SUCRE,BO-H,15,84.99,Chuquisaca
+nebula,21131,,BO-S,0,129.99,Santa Cruz

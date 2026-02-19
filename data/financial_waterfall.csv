@@ -1,0 +1,13 @@
+Scenario,Component,Value,Type
+Non-Member (2 Orders),1. Gross Sales,284.0,Revenue
+Non-Member (2 Orders),2. COGS,-142.0,Cost
+Non-Member (2 Orders),3. Shipping Subsidy,0.0,Cost
+Non-Member (2 Orders),4. Member Discount,0.0,Cost
+Non-Member (2 Orders),5. Membership Fee,0.0,Revenue
+Member (4 Orders),1. Gross Sales,568.0,Revenue
+Member (4 Orders),2. COGS,-284.0,Cost
+Member (4 Orders),3. Shipping Subsidy,-72.64,Cost
+Member (4 Orders),4. Member Discount,-85.2,Cost
+Member (4 Orders),5. Membership Fee,99.0,Revenue
+Member (4 Orders),6. Net Result,-225.16,Total
+Non-Member (2 Orders),6. Net Result,-142.0,Total
