@@ -4,7 +4,7 @@
 This project analyzes the financial and strategic viability of launching an **Annual Membership Program (99$)** across a portfolio of four casual apparel brands. currently operating in silos.
 
 The analysis reveals that while the business has a strong niche presence, it suffers from a **high churn rate (80% of customers are one-time buyers)**. The proposed membership model is designed to solve this by incentivizing **Purchase Frequency** and **Cross-Selling** through free shipping benefits, transforming transactional buyers into recurring high-value customers.
-![Membership Strategy Dashboard](assets/dashboard_overview.png)
+![Membership Strategy Dashboard](assets/main-bashboard.png)
 
 The financial simulation confirms that this strategy yields a **+58% Net Profit Lift** per active member compared to non-members, with a break-even point that remains robust even under high-cost shipping scenarios.
 
