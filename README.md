@@ -10,7 +10,7 @@ The analysis reveals that while the business has a strong niche presence, it suf
 
 ![Membership Strategy Dashboard](assets/main-dashboard.png)
 
-> 💡 **Interactive Dashboard:** Available in the `tableau/` folder (`membership-multistore.twbx`). *(Tableau Public link pending).*
+> 💡 **Interactive Dashboard:** [View Live Dashboard on Tableau Public](https://public.tableau.com/views/E-commerceLTVMaximizationMulti-BrandMembershipStrategy/Dashboard1)
 
 ---
 
