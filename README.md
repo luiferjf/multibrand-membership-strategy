@@ -1,4 +1,4 @@
-# Strategic Pivot: Multi-Brand Membership to Maximize Frequency & Profit
+# +58% Net Profit LTV Lift: Strategic Multi-Brand Membership Strategy
 
 ## Executive Summary
 
@@ -9,6 +9,12 @@ The analysis reveals that while the business has a strong niche presence, it suf
 **The Conclusion:** The financial simulation confirms that this strategy yields a **+58% Net Profit Lift** per active member. This approach projects an increase in Annual Customer Net Profit LTV from a baseline of **$142 to $225** per active member.
 
 📑 **Deep Dive:** [Read the full Strategic Executive Report & Implementation Plan](doc/EXECUTIVE_REPORT.md)
+
+| Metric | Current Baseline | Project Target |
+| :--- | :--- | :--- |
+| **Annual Profit per User** | $142 | **$225 (+58%)** |
+| **Purchase Frequency** | 2.0x / year | **4.0x / year** |
+| **Cross-Brand Index** | 1.02 (Silos) | **2.50+ (Ecosystem)** |
 
 ![Membership Strategy Dashboard](assets/main-dashboard.png)
 

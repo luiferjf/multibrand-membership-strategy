@@ -1,4 +1,4 @@
-# Executive Report: Membership Strategy Viability
+# +58% Net Profit LTV Lift: Strategic Multi-Brand Membership Strategy
 
 ## 1. Strategic Hypothesis & Recommendation: LAUNCH
 
@@ -14,7 +14,7 @@ Based on the financial simulation and historical data analysis, the growth hypot
 
 ## 2. Setting the Baseline: "The Untapped Volume"
 
-Analysis of the current transactional database shows a massive opportunity for LTV optimization. Currently, the commercial model is highly transactional, capping potential revenue.
+Analysis of the current transactional database shows a massive opportunity for LTV optimization. This strategy is built upon a clinical analysis of **2,919 unique customer identities** resolved across 4 independent databases, using unified transaction logic to ensure high model confidence. Currently, the commercial model is highly transactional, capping potential revenue.
 
 * **The Baseline LTV:** Currently, an average frequent shopper reaches ≈**$142 Net Profit per year** (averaging 2 orders/year).
 * **The Opportunity:** However, **80% of our customers currently purchase only once**, capping their actual LTV at a single transaction. This represents a huge, untapped pool of customers.
