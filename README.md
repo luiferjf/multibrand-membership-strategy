@@ -1,4 +1,4 @@
-# +58% Net Profit LTV Lift: Strategic Multi-Brand Membership Strategy
+# +58% Net Profit LTV Lift: Multi-Brand Membership Strategy
 
 ## Executive Summary
 

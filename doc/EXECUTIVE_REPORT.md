@@ -1,4 +1,4 @@
-# +58% Net Profit LTV Lift: Strategic Multi-Brand Membership Strategy
+# +58% Net Profit LTV Lift: Multi-Brand Membership Strategy
 
 ## 1. Strategic Hypothesis & Recommendation: LAUNCH
 
@@ -95,19 +95,19 @@ We modeled a "Worst-Case Scenario" to test if the "Free Shipping" hypothesis cou
 
 To bridge the gap between our 4 independent WooCommerce stores and a unified membership ecosystem, we propose a scalable execution roadmap:
 
-#### Phase 1: Validation with "Champions" (The Pilot)
+### Phase 1: Validation with "Champions" (The Pilot)
 
 * **Target Segment:** We will leverage the **"Champions" segment** identified in our *Merchandising Intelligence (RFM)* analysis. These users already show high affinity and frequency, making them the lowest-risk group to validate the $99 entry barrier.
 * **Objective:** Launch an invitation-only "Foundation Circle" to measure initial conversion rates and the first behavioral shift toward multi-brand shopping.
 * **Monitoring:** Use the **Foundation v1** unified view to track if these specific users begin transacting across at least 2 different stores within the first 60 days.
 
-#### Phase 2: "Email-Linked Benefit" MVP (Low Technical Complexity)
+### Phase 2: "Email-Linked Benefit" MVP (Low Technical Complexity)
 
 * **Infrastructure:** Since independent WooCommerce domains do not share user sessions, we will implement an **Email-Linked Benefit** system.
 * **Logic:** Upon membership purchase, the system generates a unique, email-restricted coupon for $0 shipping and 15% OFF across all 4 databases. This allows for immediate deployment without requiring complex checkout unification.
 * **Cross-Traffic:** Implement shared navigation menus across stores to encourage discovery, acknowledging that users will complete separate transactions while enjoying the same membership benefits.
 
-#### Phase 3: Structural Unification (Long-Term Vision)
+### Phase 3: Structural Unification (Long-Term Vision)
 
 * **Ecosystem Consolidation:** To achieve the full +58% Profit Lift potential, the final phase involves migrating from 4 isolated WooCommerce installations to a **Single Multi-site or Unified Domain**.
 * **Impact:** A single login, one cart, and one payment process. This permanently eliminates the friction of "Double-Checkouts" and enables true personalization based on the member's full purchase history across all brands.
