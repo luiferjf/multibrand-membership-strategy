@@ -8,6 +8,8 @@ The analysis reveals that while the business has a strong niche presence, it suf
 
 **The Conclusion:** The financial simulation confirms that this strategy yields a **+58% Net Profit Lift** per active member. This approach projects an increase in Annual Customer Net Profit LTV from a baseline of **$142 to $225** per active member.
 
+📑 **Deep Dive:** [Read the full Strategic Executive Report & Implementation Plan](doc/EXECUTIVE_REPORT.md)
+
 ![Membership Strategy Dashboard](assets/main-dashboard.png)
 
 > 💡 **Interactive Dashboard:** [View Live Dashboard on Tableau Public](https://public.tableau.com/views/E-commerceLTVMaximizationMulti-BrandMembershipStrategy/Dashboard1)
